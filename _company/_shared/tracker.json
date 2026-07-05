@@ -50,6 +50,81 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-05T12-32/_report.md\n- Writer: researcher가 작성한 hwanha_insurance_audit.md의 비교 분석 결과를 활용하여 블로그용 카드뉴스 대비 구조를 명확히 하\n\nCEO 종합 요점: ✍️ Writer: 작업 시작합니다.\n\nresearcher가 정리한 한화보험 상품별 비교 데이터를 바탕으로, 보험료를 거품 없이 최적화하고 가입자에게 꼭 필요한 보장만 남긴 '맞춤형 구조'의 강점을 부각하는 블로그용 카드뉴스 대비안과 인스타그램 홍보 후크 5세트를 확정합니다.\n\n<create_file path=\"/users/crowpluss/ai disys",
       "completedAt": "2026-07-05T12:38:55.453Z"
+    },
+    {
+      "id": "20260705173628-8h2t",
+      "title": "**색상대비**: 제거 영역(회색 #A9A9A9), 강화 구간(#FF4B5C). 모든 비교 표에서 일관성 유지 확인",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-05T17:36:28.633Z",
+      "status": "pending",
+      "sessionDir": "2026-07-05T17-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260705173628-xoz9",
+      "title": "**아이콘 배치**: 제거된 특약/불필요 항목에 '삭제 아이콘' 오버레이 적용 여부 전수 검사",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-05T17:36:28.651Z",
+      "status": "pending",
+      "sessionDir": "2026-07-05T17-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260705173628-205w",
+      "title": "**가독성**: 모바일 시청을 위한 폰트 크기(18pt 이상), 대비 높은 컬러 코드 사용 확인",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-05T17:36:28.663Z",
+      "status": "pending",
+      "sessionDir": "2026-07-05T17-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260705173628-i4vc",
+      "title": "**후크1**: 한화의 '불필요 제거' 메시지가 회색 처리 시각과 일치하는지 확인",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-05T17:36:28.670Z",
+      "status": "pending",
+      "sessionDir": "2026-07-05T17-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260705173628-a3ag",
+      "title": "**후크2**: 진단비 강화 구역이 #FF4B5C 하이라이트와 정확히 대응되는지 매핑",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-05T17:36:28.676Z",
+      "status": "pending",
+      "sessionDir": "2026-07-05T17-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
