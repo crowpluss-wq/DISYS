@@ -1,0 +1,21 @@
+# Instagram Card News Layout & Visual Guide (Comparison Table)
+
+## 🎨 Core Contrast Strategy: Remove vs. Strengthen
+- **Left Side (Remove):** Unnecessary riders and complex terms → Grayed out (#808080), marked with a deletion icon. Focus on "simplicity."
+- **Right Side (Strengthen):** Essential coverage and tailored protection → Highlight color (#FF4B5C). Visual anchor for the user's attention.
+
+## 📐 Layout Specifications: Vertical Split Card News
+### Page Structure (1080x1350 vertical)
+- [Section A] Top Bar: Eye-catching headline ("Why your current policy might be wasting money").
+- [Section B] Left Half (Gray): "The Old Way" - List of items marked with 🗑️.
+- [Section C] Right Half (#FF4B5C): "The New Solution" - Corresponding essential benefits in high contrast.
+- [Footer]: CTA button — Contact the designer for a free comparison audit today!
+
+## Typography & Sizing
+- **Main Headline:** Bold sans-serif, 120pt+ (attention grabber).
+- **Comparison Items:** Readable body font, 34pt+.
+- **Key Numbers/Stats:** Enlarged to 56pt or higher — instantly readable on a mobile screen.
+
+## Visual Assets & Elements
+- Delete Icon: Simple 'X' symbol placed next to grayed items in Section B.
+- Highlight Glow: Subtle #FF4B5C glow around the right-side boxes for maximum contrast against the white background.
