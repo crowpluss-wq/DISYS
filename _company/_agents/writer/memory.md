@@ -97,3 +97,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-08] reports/insurance_comparison_matrix_final.md을 기반으로 제거(grey)와 강화(red) 구조의 차이가 선명하게 드러나는 블로그용 한 페이지 요약 보고서 작성 → 산출물 sessions/2026-07-08T19-33/writer.md
 - [2026-07-08] reports/insurance_comparison_matrix_final.md을 기반으로 제거(grey)와 강화(red) 구조의 차이가 선명하게 드러나는 블로그용 한 페이지 요약 보고서를 작성하고, 인스타그램 배포용 후크 세트를 포함시키십시오. → 산출물 sessions/2026-07-08T20-18/writer.md
 - [2026-07-08] reports/insurance_comparison_matrix_final.md 또는 최근의 비교표 데이터를 활용하여 한 페이지 분량의 블로그 요약 보고서를 작성하세요. 제거(Grey)와 강화(Red) 구조의 대비를 명확하게 기술하고, 인스타그램 배포용 후크 세트 5종을 하단에 포함하십시오. → 산출물 sessions/2026-07-08T20-33/writer.md
+- [2026-07-08] reports/insurance_comparison_matrix_final.md에 기반하여 제거(Grey)와 강화(Red) 구조 대비가 명확한 한 페이지 분량 블로그 요약 보고서 작성 → 산출물 sessions/2026-07-08T20-48/writer.md
