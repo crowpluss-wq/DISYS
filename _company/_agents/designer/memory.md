@@ -38,3 +38,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-08] reports/insurance_comparison_dataset_updated.md의 제거(회색)와 강화(빨간색) 대비 구조를 반영하여 배포용 인스타그램 2분할 카드뉴스 레이아웃 시각화 → 산출물 sessions/2026-07-08T12-48/designer.md
 - [2026-07-08] reports/insurance_comparison_dataset_updated.md에 정의된 제거(grey, #808080)와 강화(red, #FF4B5C) 대비 구조를 충실히 반영하고, 주요 수치 확대 배치 및 하단 요약 문구를 포함하여 인스타그램 카드뉴스 레이아웃을 최종 시각화하십시오. → 산출물 sessions/2026-07-08T13-03/designer.md
 - [2026-07-08] 최근 결정된 대비 컬러(grey #808080, red #FF4B5C) 및 수치 확대 배치 지침을 반영하여 인스타그램 2분할 카드뉴스 레이아웃을 최종 시각화하고 배포 준비를 마무리지세요. → 산출물 sessions/2026-07-08T13-33/designer.md
+- [2026-07-08] reports/insurance_comparison_dataset_updated.md에 정의된 제거(grey, #808080)와 강화(red, #FF4B5C) 대비 구조를 반영하고, 주요 수치를 28pt 이상 확대 배치하며 하단에 한 문장 요약을 포함하여 인스타그램 카드뉴스 레이아웃을 최종 시각화하십시오. → 산출물 sessions/2026-07-08T15-03/designer.md
