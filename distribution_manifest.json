@@ -1,0 +1,9 @@
+{
+  "last_updated": "2026-07-10",
+  "visual_source": "/Users/crowpluss/ai disys/reports/insurance_cardnews_source_package.md",
+  "highlights": [
+    {"id": 1, "title": "불필요 특약 제거 효과", "link": "https://analytics.disys.kr/summary?feature=removal"},
+    {"id": 2, "title": "맞춤형 보장 강화 구조", "link": "https://analytics.disys.kr/comparison?segment=enhanced"}
+  ],
+  "status": "verified_for_deployment"
+}
