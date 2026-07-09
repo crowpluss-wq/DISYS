@@ -124,3 +124,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-09] reports/mastered_insurance_data_summary.md의 대비 구조를 반영하여 한 페이지 분량의 블로그 요약 보고서를 작성하고, 이미 확정된 5종 후크 세트와 통합하십시오. → 산출물 sessions/2026-07-09T11-03/writer.md
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조와 확정된 시각 매핑을 반영하여, 한 페이지 내외 분량으로 정리된 블로그용 보험 요약 보고서를 작성하십시오. → 산출물 sessions/2026-07-09T12-35/writer.md
 - [2026-07-09] reports/mastered_insurance_data_summary.md의 대비 구조와 이미 확정된 5종의 대비형 후크를 활용하여 한 페이지 분량 내외로 정리된 블로그용 보험 요약 보고서 및 인스타그램 배포용 통합 패키지를 작성하십시오. → 산출물 sessions/2026-07-09T12-50/writer.md
+- [2026-07-09] outputs/blog_insurance_deployment_package.md의 대비 구조(제거 vs 강화)와 5종 후크를 활용하여 가독성 높은 한 페이지 분량의 블로그용 보험 요약 보고서를 작성하세요. → 산출물 sessions/2026-07-09T13-05/writer.md
