@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 7. 9. 오전 11:52:20_
+_업데이트: 2026. 7. 9. 오후 12:06:43_
 
 ## 🤖 에이전트 최근 활동
 ### 📷 Instagram
@@ -7,9 +7,9 @@ _업데이트: 2026. 7. 9. 오전 11:52:20_
 - [2026-07-09] outputs/instagram_posting_schedule.md에 확정된 오전(09:00)과 오후(18:30) 배포 일정 및 해시태그 세트를 확인하여 실제 채널에 업로드하고 게시 상태를 업데이트하십시오. → 산출물 sessions/2026-07-09T00-03/instagram.md
 - [2026-07-09] 확정된 콘텐츠와 시각 매핑 정보가 포함된 배포 패키지를 확인하여 피크타임(09:00, 18:30) 일정에 맞춰 인스타그램 채널 업로드 및 게시 상태를 업데이트하십시오. → 산출물 sessions/2026-07-09T01-18/instagram.md
 ### 🎨 Designer
-- [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(Red) 대비 구조를 기반으로 시각 매핑 정보를 확정하고, 인스타그램 배포용 카드뉴스 등 포함된 최종 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T00-48/designer.md
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(Red) 대비 구조를 기반으로 시각 매핑 정보를 확정하고, 인스타그램 배포용 카드뉴스 포함된 최종 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T01-18/designer.md
 - [2026-07-09] 보고서(blog_insurance_summary_report.md)의 '제거(Grey)'와 '강화(#FF4B5C)' 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T02-18/designer.md
+- [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T03-03/designer.md
 ### 💻 코다리
 - [2026-07-05] 모든 에이전트가 정기적으로 활용할 수 있는 자기 검증 루프(self-correction loop)와 데이터 신선도 확인용 자동화 스크립트 작성 및 설치를 위한 환경 설정. → 산출물 sessions/2026-07-05T11-52/developer.md
 ### 📱 영숙
