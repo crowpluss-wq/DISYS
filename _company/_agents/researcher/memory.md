@@ -48,3 +48,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-07-09] reports/insurance_comparison_matrix_final.md에 명시된 제거(Grey)와 강화(Red) 대비 구조 및 경쟁사 비교 데이터를 재검증하고 보고서용 수치를 확정하십시오. → 산출물 sessions/2026-07-09T00-33/researcher.md
 - [2026-07-09] 최근 보험 트렌드와 각 보험사별 상세 설계안을 조사하고, 주요 장점과 단점을 수치 기반으로 요약하십시오. → 산출물 sessions/2026-07-09T01-03/researcher.md
 - [2026-07-09] 한화보험사 보험종류와 각 보험의 한도·가격 등 설계 관련 자료를 인터넷과 타사 사례 참고하여 전수 조사 후 제거/강화 분류 데이터 정리 → 산출물 sessions/2026-07-09T07-03/researcher.md
+- [2026-07-09] reports/insurance_comparison_matrix_final.md에 명시된 보험사별·특약별 수치를 조사하고, 중복을 제거한 실질 보장 강화 중심의 세부 비교 데이터를 정리하십시오. → 산출물 sessions/2026-07-09T08-48/researcher.md
