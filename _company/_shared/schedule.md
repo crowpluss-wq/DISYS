@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 7. 9. 오전 9:06:42_
+_업데이트: 2026. 7. 9. 오전 9:22:13_
 
 ## 🤖 에이전트 최근 활동
 ### 📷 Instagram
@@ -17,9 +17,9 @@ _업데이트: 2026. 7. 9. 오전 9:06:42_
 - [2026-07-08] Designer의 distribution_manifest와 Instagram의 최종 콘텐츠 패키지를 수령하고, secretary 개인 목표에 따라 배포 준비 상태를 공유하십시오. → 산출물 sessions/2026-07-08T22-33/secretary.md
 - [2026-07-08] outputs/instagram_finalized_deployment.md 파일을 수령하여 인스타그램 배포 준비 현황을 공유하고, 주요 일정에 맞춰 실제 채널 업로드를 진행하십시오. → 산출물 sessions/2026-07-08T23-33/secretary.md
 ### ✍️ Writer
-- [2026-07-08] reports/insurance_comparison_matrix_final.md을 기반으로 제거(Grey)와 강화(Red) 대비가 명확한 한 페이지 분량 블로그 요약 보고서를 작성하고 하단에 인스타그램 배포용 후크 5종 세트를 포함하십시오. → 산출물 sessions/2026-07-08T21-18/writer.md
 - [2026-07-08] 분석된 데이터를 기반으로 제거/강화 구조를 대비시키는 한 페이지 분량의 블로그 요약 보고서 작성 → 산출물 sessions/2026-07-08T21-48/writer.md
 - [2026-07-08] reports/insurance_comparison_matrix_final.md의 검증된 수치를 활용해 제거(Grey)/강화(Red) 대비 구조를 명확히 한 한 페이지 분량 블로그 요약 보고서를 작성하고, 하단에 인스타그램용 후크 세트를 포함시키시오. → 산출물 sessions/2026-07-08T23-03/writer.md
+- [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거/강화 구조를 활용해 한 페이지 분량의 블로그 요약 보고서를 작성하고 하단에 인스타그램용 후크 5종 세트를 포함하십시오. → 산출물 sessions/2026-07-09T00-18/writer.md
 ### 🔍 Researcher
 - [2026-07-08] 대한민국 모든 보험사들의 보험 설계와 한화 대비 장단점을 조사하고, 제거/강화 구조를 반영하여 비교 매트릭스 형태의 데이터 요약 보고서를 작성하십시오. → 산출물 sessions/2026-07-08T19-18/researcher.md
 - [2026-07-08] 모든 보험사의 보험 설계안 및 각 상품별 장단점 조사·정리 및 최적의 보험 설계 모델 도출 → 산출물 sessions/2026-07-08T21-48/researcher.md
