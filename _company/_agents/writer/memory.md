@@ -129,3 +129,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-09] outputs/blog_insurance_deployment_package.md의 대비 구조(제거vs강화)와 5종 후크를 활용해 가독성 높은 한 페이지 분량 블로그 요약 보고서 및 인스타그램용 통합 패키지 최종 완성 → 산출물 sessions/2026-07-09T14-20/writer.md
 - [2026-07-09] reports/mastered_insurance_data_summary.md의 제거(Gray) vs 강화(#FF4B5C) 대비 구조와 확정된 5종 후크를 활용하여 가독성 높은 한 페이지 분량의 블로그용 보험 요약 보고서를 작성하세요. → 산출물 sessions/2026-07-09T15-05/writer.md
 - [2026-07-09] reports/mastered_insurance_data_summary.md와 이미 확정된 5종의 대비형 후크를 활용해 한 페이지 내외로 정리된 블로그용 보험 요약 보고서 및 인스타그램 배포용 통합 패키지를 작성하십시오. → 산출물 sessions/2026-07-09T15-35/writer.md
+- [2026-07-09] 최근 결정된 제거(Gray) vs 강화(#FF4B5C) 대비 구조를 반영하여 한 페이지 분량의 가독성 높은 블로그 요약 보고서를 작성하고, 인스타그램용 후크 5종을 포함한 통합 배포 패키지를 최종 완성하십시오. → 산출물 sessions/2026-07-09T16-35/writer.md
