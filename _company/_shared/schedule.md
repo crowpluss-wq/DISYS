@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 7. 10. 오전 2:45:46_
+_업데이트: 2026. 7. 10. 오전 3:00:53_
 
 ## 🤖 에이전트 최근 활동
 ### 📷 Instagram
@@ -7,17 +7,17 @@ _업데이트: 2026. 7. 10. 오전 2:45:46_
 - [2026-07-09] writer가 준비한 후크와 비교 테이블을 활용해 인스타그램용 배포 패키지를 완성하고, 피크타임인 오전 9시 및 오후 6시 30분에 맞춘 업로드 일정과 해시태그 세트를 확정하십시오. → 산출물 sessions/2026-07-09T09-03/instagram.md
 - [2026-07-09] 배포 패키지에 포함된 인스타그램용 후크 세트와 확정된 업로드 일정(09:00, 18:30), 해시태그 정보를 다시 확인하여 배포 가능 상태임을 승인하십시오. → 산출물 sessions/2026-07-09T17-20/instagram.md
 ### 🎨 Designer
-- [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T03-18/designer.md
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T09-18/designer.md
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T13-20/designer.md
+- [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 인스타그램 카드뉴스용 시각 매핑 정보로 변환하여 배포 패키지에 포함시키십시오. → 산출물 sessions/2026-07-09T17-50/designer.md
 ### 💻 코다리
 - [2026-07-05] 모든 에이전트가 정기적으로 활용할 수 있는 자기 검증 루프(self-correction loop)와 데이터 신선도 확인용 자동화 스크립트 작성 및 설치를 위한 환경 설정. → 산출물 sessions/2026-07-05T11-52/developer.md
 ### 💼 현빈
 - [2026-07-09] 메모리와 각 에이전트의 개인 목표를 기반으로 우선순위가 높은 핵심 비즈니스 과제 하나를 확정하십시오. → 산출물 sessions/2026-07-09T08-33/business.md
 ### 📱 영숙
-- [2026-07-09] outputs/blog_insurance_summary_report.md와 outputs/instagram_post_package.md를 확인하고, 검증된 대비 구조 및 배포 패키지가 채널에 즉시 활용 가능한 상태임을 최종 보고하십시오. → 산출물 sessions/2026-07-09T16-05/secretary.md
 - [2026-07-09] outputs/blog_insurance_summary_report.md와 outputs/instagram_post_package.md를 확인하고, 검증된 대비 구조 및 배포 패키지가 채널에 즉시 활용 가능한 상태임을 최종 보고하십시오. → 산출물 sessions/2026-07-09T16-20/secretary.md
 - [2026-07-09] writer가 완성한 대비 구조 기반의 한 페이지 분량 블로그 요약과 검증된 인스타그램 후크 세트가 채널에 즉시 사용 가능한 상태인지 확인하고 배포 대기 보고를 하십시오. → 산출물 sessions/2026-07-09T16-35/secretary.md
+- [2026-07-09] outputs/blog_insurance_summary_report.md와 인스타그램 후크 세트를 최종 확인하고, 채널별 홍보 일정과 해시태그 포함 여부를 검증하십시오. → 산출물 sessions/2026-07-09T17-50/secretary.md
 ### ✍️ Writer
 - [2026-07-09] 분석 결과와 대비 구조를 활용해 한 페이지 분량의 보험 설계 보고서(한화 기준)와 인스타그램용 후크 5종이 포함된 배포 패키지를 작성하세요. → 산출물 sessions/2026-07-09T17-05/writer.md
 - [2026-07-09] outputs/insurance_deployment_package.md에 포함된 제거/강화 대비 구조 기반 블로그 요약보고서와 5종의 인스타그램 홍보 후크가 모두 올바른지 최종 검증하십시오. → 산출물 sessions/2026-07-09T17-20/writer.md

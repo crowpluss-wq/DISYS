@@ -57,3 +57,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T03-18/designer.md
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T09-18/designer.md
 - [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 인스타그램 카드뉴스용 시각 매핑 정보를 확정하고 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-09T13-20/designer.md
+- [2026-07-09] reports/insurance_comparison_matrix_final.md의 제거(Grey)/강화(#FF4B5C) 대비 구조를 인스타그램 카드뉴스용 시각 매핑 정보로 변환하여 배포 패키지에 포함시키십시오. → 산출물 sessions/2026-07-09T17-50/designer.md
