@@ -1,0 +1,18 @@
+{
+  "current_focus": "Extract pro/con comparison and draft summary for new insurance model vs existing major insurers",
+  "status": "planned",
+  "related_work": ["reports/insurance_comparison_matrix_final.md"],
+  "team": ["researcher", "writer"],
+  "plan": [
+    {
+      "agent": "researcher",
+      "task": "Analyze reports/insurance_comparison_matrix_final.md to synthesize pro/con for 'new model' vs existing leaders (Hanwha base)",
+      "output": "new_model_procon.json"
+    },
+    {
+      "agent": "writer",
+      "task": "Transform researcher's comparison into a concise one-page report and 5 Instagram hooks using the remove/enhance framework",
+      "output": "outputs/blog_insurance_summary_report.md"
+    }
+  ]
+}
