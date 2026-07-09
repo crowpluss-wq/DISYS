@@ -81,3 +81,4 @@ _영숙 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-09] outputs/blog_insurance_summary_report.md와 outputs/instagram_post_package.md를 확인하고, 검증된 대비 구조 및 배포 패키지가 채널에 즉시 활용 가능한 상태임을 최종 보고하십시오. → 산출물 sessions/2026-07-09T16-05/secretary.md
 - [2026-07-09] outputs/blog_insurance_summary_report.md와 outputs/instagram_post_package.md를 확인하고, 검증된 대비 구조 및 배포 패키지가 채널에 즉시 활용 가능한 상태임을 최종 보고하십시오. → 산출물 sessions/2026-07-09T16-20/secretary.md
 - [2026-07-09] writer가 완성한 대비 구조 기반의 한 페이지 분량 블로그 요약과 검증된 인스타그램 후크 세트가 채널에 즉시 사용 가능한 상태인지 확인하고 배포 대기 보고를 하십시오. → 산출물 sessions/2026-07-09T16-35/secretary.md
+- [2026-07-09] outputs/blog_insurance_summary_report.md와 인스타그램 후크 세트를 최종 확인하고, 채널별 홍보 일정과 해시태그 포함 여부를 검증하십시오. → 산출물 sessions/2026-07-09T17-50/secretary.md
