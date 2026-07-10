@@ -441,6 +441,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-10T14-05/_report.md\n- Writer: 제거(Grey) vs 강화(#FF4B5C) 대비 구조를 활용하여 가독성 높은 한 페이지 분량의 블로그용 요약 보고서를 완성하고, 인스타그램 채널\n\nCEO 종합 요점: ✍️ Writer: 작업 시작합니다.\n\n기존의 '제거(Grey)' vs '강화(#FF4B5C)' 대비 구조를 활용하여 한눈에 파악하기 쉬운 블로그용 요약 보고서를 완성하고, 배포 즉시 사용 가능한 인스타그램 후크 5종을 작성하겠습니다.\n\n<create_file path=\"/Users/crowpluss/ai disys/outputs/blog_summary_r",
       "completedAt": "2026-07-10T14:10:16.907Z"
+    },
+    {
+      "id": "20260710211006-4ygj",
+      "title": "Writer: 제거(Grey) vs 강화(#FF4B5C) 구조 기반 비교보고서",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-10T21:10:06.393Z",
+      "status": "done",
+      "sessionDir": "2026-07-10T21-05",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-10T21-05/_report.md\n- 현빈: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n- 영숙: Writer의 비교 보고서, Designer의 카드뉴스 비주얼, Instagram 배포 패키지 3종을 하나로 통합하고 세부 항목별 QC를 거쳐 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 ",
+      "completedAt": "2026-07-10T21:12:28.000Z"
+    },
+    {
+      "id": "20260710211006-tgaa",
+      "title": "Designer: 카드뉴스 비주얼 (채널별 대비 매트릭스 배치 포함)",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-10T21:10:06.427Z",
+      "status": "done",
+      "sessionDir": "2026-07-10T21-05",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-10T21-05/_report.md\n- 현빈: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n- 영숙: Writer의 비교 보고서, Designer의 카드뉴스 비주얼, Instagram 배포 패키지 3종을 하나로 통합하고 세부 항목별 QC를 거쳐 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 ",
+      "completedAt": "2026-07-10T21:12:28.020Z"
+    },
+    {
+      "id": "20260710211006-d2fo",
+      "title": "Instagram: 5종의 유형별 후크 세트 및 분할 업로드 일정",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-10T21:10:06.441Z",
+      "status": "done",
+      "sessionDir": "2026-07-10T21-05",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-10T21-05/_report.md\n- 현빈: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n- 영숙: Writer의 비교 보고서, Designer의 카드뉴스 비주얼, Instagram 배포 패키지 3종을 하나로 통합하고 세부 항목별 QC를 거쳐 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 ",
+      "completedAt": "2026-07-10T21:12:28.030Z"
     }
   ]
 }
