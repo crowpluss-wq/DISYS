@@ -143,3 +143,4 @@ _영숙 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-10] 이미 QC가 완료된 Writer의 보고서, Designer의 카드뉴스 시각 자료, Instagram 3종 패키지를 통합하여 배포 준비 상태를 최종 확인하십시오. → 산출물 sessions/2026-07-10T22-50/secretary.md
 - [2026-07-10] Writer의 보고서, Designer의 카드뉴스 시각 자료, Instagram 3종 배포 패키지를 하나로 통합하고 세부 항목별 QC를 거쳐 즉시 배포 가능한 상태(reports/deployment_ready.md)로 최종 정리하십시오. → 산출물 sessions/2026-07-10T23-05/secretary.md
 - [2026-07-10] Writer의 보고서, Designer의 카드뉴스 시각 자료, Instagram 3종 배포 패키지를 하나로 통합하고 세부 항목별 QC를 거쳐 reports/deployment_ready.md에 즉시 배포 가능한 상태로 최종 정리하십시오. → 산출물 sessions/2026-07-10T23-20/secretary.md
+- [2026-07-10] Writer의 한 페이지 분량 보험 비교 보고서, Designer의 카드뉴스 시각 자료 및 대비 매트릭스, Instagram 3종 배포 패키지를 모두 통합하고 중복 제거 및 세부 항목 QC를 거쳐 reports/deployment_ready.md에 즉시 배포 가능한 상태로 최종 정리하세요. → 산출물 sessions/2026-07-10T23-35/secretary.md
