@@ -1,0 +1,10 @@
+{
+  "campaign": "insurance_comparison",
+  "color_palette": {
+    "primary": "#FF4B5C",
+    "secondary": "Grey",
+    "neutral": "#F8F9FA"
+  },
+  "layout": "2-column split card news",
+  "visual_rule": "Gray out redundant clauses, highlight core coverage in #FF4B5C"
+}
