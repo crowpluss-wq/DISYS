@@ -492,6 +492,51 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-10T21-05/_report.md\n- 현빈: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n- 영숙: Writer의 비교 보고서, Designer의 카드뉴스 비주얼, Instagram 배포 패키지 3종을 하나로 통합하고 세부 항목별 QC를 거쳐 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최근 결정 사항과 LTV 기반 분석을 재검토하여 사업 가치가 가장 높은 단일 핵심 과제를 확정하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 ",
       "completedAt": "2026-07-10T21:12:28.030Z"
+    },
+    {
+      "id": "20260711080941-kbn7",
+      "title": "제거(Grey)/강화(#FF4B5C) 대비 구조가 명확하게 드러나는 레이아웃인가? - **OK**",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-11T08:09:41.380Z",
+      "status": "pending",
+      "sessionDir": "2026-07-11T08-05",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260711080941-rzg7",
+      "title": "비교 매트릭스 시각 강화를 위한 고도화된 디자인 가이드 포함 | **OK**",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-11T08:09:41.410Z",
+      "status": "pending",
+      "sessionDir": "2026-07-11T08-05",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260711080941-a5lf",
+      "title": "인스타그램 등 배포 채널을 고려한 세로형 카드뉴스 형식 적용 여부 | **OK**",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-11T08:09:41.422Z",
+      "status": "pending",
+      "sessionDir": "2026-07-11T08-05",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
