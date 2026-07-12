@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "description": "코다리 대비 구조 최종 검증용 매트릭스",
+    "last_updated": "2026-07-13",
+    "structure": ["제거(Grey)", "강화(#FF4B5C)"]
+  },
+  "comparison_matrix": [
+    {
+      "category": "진단비/수술비 보장 구조",
+      "removed_items": ["중복 특약", "낮은 지급률의 소액 진단비"],
+      "strengthened_points": [{"name": "고액 진단비 강화", "value": "#FF4B5C"}, {"name": "수술비 한도 상향", "value": "#FF4B5C"}],
+      "notes": "불필요한 비용을 제거하고 핵심 보장에 집중하도록 재설계"
+    },
+    {
+      "category": "가입 조건 및 특약 유무",
+      "removed_items": ["나이별 세분화된 가입 제한"],
+      "strengthened_points": [{"name": "보장 범위 통합 강화", "value": "#FF4B5C"}],
+      "notes": "보험료 최적화를 위해 불필요한 특약 제거 후 핵심 보장량 상향"
+    }
+  ]
+}
