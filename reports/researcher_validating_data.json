@@ -1,0 +1,8 @@
+{
+  "report": "insurance_comparison_matrix_final",
+  "status": "validated",
+  "extracted_data": [
+    { "insurer": "Hanhwa", "removed": ["Duplicate diagnostic pay-outs"], "enhanced": ["Enhanced surgery and diagnosis package"]},
+    { "comparison": "vs major insurers (A/B)", "gap_fill": "All matrix cells populated with real collected data" }
+  ]
+}
