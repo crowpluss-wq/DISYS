@@ -645,6 +645,21 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-12T06-10/_report.md\n- 현빈: 최근 의사결정 내역과 LTV 기반 모델을 검토하여 현재 가치가 가장 높은 단일 핵심 과제를 결정하고, 그에 최적화된 에이전트(1~2명)를 배분할\n\nCEO 종합 요점: 💼 현빈: 작업 시작합니다.\n\n최근 의사결정 로그와 LTV 기반 분석 결과를 종합할 때, 현재 가장 가치가 높은 단일 핵심 과제는 **\"대비 구조의 시각적 극대화 및 인스타그램 채널별 5종 후크 세트을 포함한 배포용 패키지 완성\"**입니다. 이는 이미 한화 대비 보험 설계를 '제거(Grey)'와 '강화'로 재정의하며 가치 제안을 최적화했으나, 실제 대중에",
       "completedAt": "2026-07-12T06:14:06.332Z"
+    },
+    {
+      "id": "20260712080016-8jtl",
+      "title": "한화 대비 매트릭스 수치 검증 완료 (data.json 병합 예정)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-12T08:00:16.483Z",
+      "status": "pending",
+      "sessionDir": "2026-07-12T07-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
