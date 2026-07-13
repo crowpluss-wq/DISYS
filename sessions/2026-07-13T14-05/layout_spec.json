@@ -1,0 +1,25 @@
+{
+  "title": "보험 비교 카드뉴스 세로 2분할 레이아웃",
+  "dimensions": {
+    "type": "vertical",
+    "split": "horizontal_center",
+    "panels": [
+      {
+        "side": "left",
+        "theme": "remove",
+        "color": "#808080",
+        "content": "불필요한 거품(특약) 제거 → 시각적으로 흐릿하거나 삭제 아이콘 처리",
+        "contrast_ratio": "low"
+      },
+      {
+        "side": "right",
+        "theme": "strengthen",
+        "color": "#FF4B5C",
+        "content": "실질적 보장 강화 → 대비 컬러로 강조, 주요 수치 28pt 이상 확대",
+        "contrast_ratio": "high"
+      }
+    ]
+  },
+  "status": "approved",
+  "source": "session/130755_layout_confirmed"
+}
