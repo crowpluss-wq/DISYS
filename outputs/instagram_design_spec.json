@@ -1,0 +1,11 @@
+{
+  "layout": "vertical_2-split",
+  "contrast_scheme": {
+    "remove": "#808080",
+    "enhance": "#FF4B5C"
+  },
+  "content_blocks": [
+    "highlight_essential_coverage",
+    "summarized_benefit_matrix"
+  ]
+}
