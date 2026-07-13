@@ -68,3 +68,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-13] 최근 의사결정 로그를 바탕으로 제거/강화 대비 매트릭스의 데이터 정확성을 최종 검증하고 인스타그램용 콘텐츠 패키지를 위한 비교 데이터를 최적으로 확정하십시오. → 산출물 sessions/2026-07-13T13-40/developer.md
 - [2026-07-13] reports/blog_insurance_summary_report.md 내 제거(Grey)/강화(#FF4B5C) 구조를 기반으로 실무적 수치를 재검토하고 가치 있는 비교 포인트들을 확정하십시오. → 산출물 sessions/2026-07-13T16-10/developer.md
 - [2026-07-13] reports/insurance_comparison_summary.md 내의 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 실무 수치를 재검토하고 가치 있는 비교 포인트들을 확정하십시오. → 산출물 sessions/2026-07-13T17-10/developer.md
+- [2026-07-13] reports/insurance_comparison_summary.md 내 제거(Grey)/강화(#FF4B5C) 대비 구조를 기반으로 실무 수치를 재검토하고 가치 있는 비교 포인트들을 확정하십시오. → 산출물 sessions/2026-07-13T17-25/developer.md
