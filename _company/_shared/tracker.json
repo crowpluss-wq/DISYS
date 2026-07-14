@@ -1512,6 +1512,66 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-14T09-40/_report.md\n- Writer: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n- Designer: Writer가 만든 대비 구조를 시각적 매트릭스로 배치하고, 가독성 수치(28pt/18pt)를 적용한 카드뉴스 레이아웃과 배포용 디자인 세트를 \n- Instagram: 두 트랙 후크 세트와 Designer의 비주얼 컨셉을 결합하여 인스타그램 채널용 최종 배포 패키지를 준비하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ✍️ Writer: ",
       "completedAt": "2026-07-14T09:58:30.457Z"
+    },
+    {
+      "id": "20260714123327-dz1c",
+      "title": "카드뉴스 메인 이미지 (비교표 중심)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T12:33:27.919Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714123327-vjho",
+      "title": "인스타그램용 두 트랙 후크 5종 (오전/정보, 오후/관계)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T12:33:27.934Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714123327-7buu",
+      "title": "카드뉴스 비교 이미지 (한 페이지 분량)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T12:33:27.947Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714123327-1990",
+      "title": "인스타그램 배포용 후크 세트 5종",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T12:33:27.960Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
