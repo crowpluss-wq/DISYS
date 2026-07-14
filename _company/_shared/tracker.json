@@ -1522,11 +1522,13 @@
         "designer"
       ],
       "createdAt": "2026-07-14T12:33:27.919Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-14T12-25",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.452Z"
     },
     {
       "id": "20260714123327-vjho",
@@ -1537,11 +1539,13 @@
         "designer"
       ],
       "createdAt": "2026-07-14T12:33:27.934Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-14T12-25",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.481Z"
     },
     {
       "id": "20260714123327-7buu",
@@ -1552,11 +1556,13 @@
         "designer"
       ],
       "createdAt": "2026-07-14T12:33:27.947Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-14T12-25",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.493Z"
     },
     {
       "id": "20260714123327-1990",
@@ -1567,11 +1573,81 @@
         "designer"
       ],
       "createdAt": "2026-07-14T12:33:27.960Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-14T12-25",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.507Z"
+    },
+    {
+      "id": "20260714123755-v681",
+      "title": "카드뉴스 비교 이미지 (한 페이지 분량)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-14T12:37:55.810Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.523Z"
+    },
+    {
+      "id": "20260714123755-ne62",
+      "title": "카드뉴스 비교 이미지 (한 페이지 분량) — Designer의 시각적 대비 구조 기반",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-14T12:37:55.844Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.545Z"
+    },
+    {
+      "id": "20260714123755-144m",
+      "title": "인스타그램용 두 트랙 후크 5종 (오전/정보, 오후/관계)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-14T12:37:55.859Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.556Z"
+    },
+    {
+      "id": "20260714123755-35re",
+      "title": "인스타그램 배포용 후크 세트 5종",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-14T12:37:55.875Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T12-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T12-25/_report.md\n- Designer: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 \n- 코다리: designer의 시각적 비교 매트릭스와 가이드를 반영하여 distribution_package.md 내 배포 패키지를 최신화하고 자동화 체크리\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_report.md을 바탕으로 제거(#808080)/강화(#FF4B5C) 대비 구조가 명확히 드러나는 한 페이지 분량의 카드뉴스 레이아웃 제작\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-07-14T12:40:09.577Z"
     }
   ]
 }
