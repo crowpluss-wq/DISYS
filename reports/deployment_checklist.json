@@ -1,0 +1,9 @@
+{
+  "report": "Deployment Checklist",
+  "status": "prepared",
+  "checks": [
+    {"id": 1, "name": "Layout Structure", "description": "2-column vertical split layout with Grey removal (left) and #FF4B5C enhancement (right)"},
+    {"id": 2, "name": "Font Sizes", "description": "Headings at 28pt+ for readability; body text at 18pt"},
+    {"id": 3, "name": "Color Contrast", "description": "Remove items in #808080 (Grey), core protections in #FF4B5C"}
+  ]
+}

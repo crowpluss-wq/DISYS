@@ -883,6 +883,66 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-13T15-25/_report.md\n- Designer: 최종 승인된 2분할 세로형 대비 구조 레이아웃 사양을 바탕으로 실제 카드뉴스 이미지 소스 제작 및 시각적 가시성 극대화 작업 수행\n- Instagram: 검증된 두 트랙 후크(오전 정보/오후 관계)와 완성된 카드뉴스 디자인 사양을 통합하여 인스타그램 채널 배포용 최종 콘텐츠 패키지 완료 및 모니터\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 최종 승인된 2분할 세로형 대비 구조 레이아웃 사양을 바탕으로 실제 카드뉴스 이미지 소스 제작 및 시각적 가시성 극대화 작업 수행\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: CEO의 지시",
       "completedAt": "2026-07-13T15:40:48.304Z"
+    },
+    {
+      "id": "20260714021441-n0by",
+      "title": "왼쪽 영역의 모든 '제거' 항목이 회색(#808080)으로 처리되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T02:14:41.916Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T02-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714021441-mz7f",
+      "title": "오른쪽 영역의 핵심 보장 포인트에만 #FF4B5C 컬러를 적용했는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T02:14:41.940Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T02-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714021441-5pkh",
+      "title": "주요 비교 수치가 28pt 이상 확대되어 모바일 가독성이 확보되는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T02:14:41.956Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T02-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714021441-3yfq",
+      "title": "제거 항목 옆에 시각적 삭제 아이콘이 배치되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T02:14:41.965Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T02-10",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
