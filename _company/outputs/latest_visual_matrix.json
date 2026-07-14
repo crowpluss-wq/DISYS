@@ -1,0 +1,9 @@
+{
+  "layout": "vertical-split",
+  "header_font": {"size": 28, "family": "NanumGothic"},
+  "body_font": {"size": 18, "family": "NanumGothic"},
+  "matrix": [
+    { "side": "left", "label": "제거(REMOVE)", "color": "#808080", "items": ["중복보장삭제", "실효성낮은부가성문구"] },
+    { "side": "right", "label": "강화(ENHANCE)", "color": "#FF4B5c", "items": ["진단비", "수술진단비", "핵심보장집중"] }
+  ]
+}
