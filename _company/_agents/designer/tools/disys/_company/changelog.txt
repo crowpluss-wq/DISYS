@@ -1,0 +1,1 @@
+Designer has integrated final visual guide and layout specs into distribution_package.md
