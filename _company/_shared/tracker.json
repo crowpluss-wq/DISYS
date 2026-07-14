@@ -1427,6 +1427,91 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-14T06-40/_report.md\n- 현빈: 최근 승인된 제거(#808080)/강화(#FF4B5C) 대비 구조와 한 페이지 분량의 블로그 비교 보고서 양식을 검토하고, 인스타그램 배포용 후\n- Writer: business에서 확정한 제거 대비 구조 및 비교 매트릭스 데이터를 기반으로 블로그 게시용 한 페이지 요약 보고서를 작성하고, 인스타그램 채널\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최근 승인된 제거(#808080)/강화(#FF4B5C) 대비 구조와 한 페이지 분량의 블로그 비교 보고서 양식을 검토하고, 인스타그램 배포용 후크 세트(정보형/관계형)를 포함한 최종 콘텐츠 패키지를 완성하세요.\n> \ud83d",
       "completedAt": "2026-07-14T06:53:45.435Z"
+    },
+    {
+      "id": "20260714095043-idcj",
+      "title": "카드뉴스 메인 시안 (좌: 제거 / 우: 강화)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T09:50:43.373Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T09-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T09-40/_report.md\n- Writer: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n- Designer: Writer가 만든 대비 구조를 시각적 매트릭스로 배치하고, 가독성 수치(28pt/18pt)를 적용한 카드뉴스 레이아웃과 배포용 디자인 세트를 \n- Instagram: 두 트랙 후크 세트와 Designer의 비주얼 컨셉을 결합하여 인스타그램 채널용 최종 배포 패키지를 준비하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ✍️ Writer: ",
+      "completedAt": "2026-07-14T09:58:30.375Z"
+    },
+    {
+      "id": "20260714095043-mmi0",
+      "title": "인스타그램 스토리용 버전 (가로형으로 재배치된 동일 매트릭스 구조)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T09:50:43.417Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T09-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T09-40/_report.md\n- Writer: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n- Designer: Writer가 만든 대비 구조를 시각적 매트릭스로 배치하고, 가독성 수치(28pt/18pt)를 적용한 카드뉴스 레이아웃과 배포용 디자인 세트를 \n- Instagram: 두 트랙 후크 세트와 Designer의 비주얼 컨셉을 결합하여 인스타그램 채널용 최종 배포 패키지를 준비하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ✍️ Writer: ",
+      "completedAt": "2026-07-14T09:58:30.403Z"
+    },
+    {
+      "id": "20260714095043-t3at",
+      "title": "블로그 삽입용 비교표 이미지",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T09:50:43.440Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T09-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T09-40/_report.md\n- Writer: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n- Designer: Writer가 만든 대비 구조를 시각적 매트릭스로 배치하고, 가독성 수치(28pt/18pt)를 적용한 카드뉴스 레이아웃과 배포용 디자인 세트를 \n- Instagram: 두 트랙 후크 세트와 Designer의 비주얼 컨셉을 결합하여 인스타그램 채널용 최종 배포 패키지를 준비하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ✍️ Writer: ",
+      "completedAt": "2026-07-14T09:58:30.419Z"
+    },
+    {
+      "id": "20260714095043-u2h7",
+      "title": "헤드라인 크기 검증 (28pt 적용 여부 확인)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T09:50:43.462Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T09-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T09-40/_report.md\n- Writer: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n- Designer: Writer가 만든 대비 구조를 시각적 매트릭스로 배치하고, 가독성 수치(28pt/18pt)를 적용한 카드뉴스 레이아웃과 배포용 디자인 세트를 \n- Instagram: 두 트랙 후크 세트와 Designer의 비주얼 컨셉을 결합하여 인스타그램 채널용 최종 배포 패키지를 준비하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ✍️ Writer: ",
+      "completedAt": "2026-07-14T09:58:30.440Z"
+    },
+    {
+      "id": "20260714095043-h9ar",
+      "title": "대비 컬러 정확도 검사 (#FF4B5c / #808080 매핑 확인)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T09:50:43.479Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T09-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T09-40/_report.md\n- Writer: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n- Designer: Writer가 만든 대비 구조를 시각적 매트릭스로 배치하고, 가독성 수치(28pt/18pt)를 적용한 카드뉴스 레이아웃과 배포용 디자인 세트를 \n- Instagram: 두 트랙 후크 세트와 Designer의 비주얼 컨셉을 결합하여 인스타그램 채널용 최종 배포 패키지를 준비하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 한 페이지 분량의 제거(#808080) vs 강화(#FF4B5c) 대비 구조를 엄격히 준수하며 블로그용 비교 보고서를 작성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ✍️ Writer: ",
+      "completedAt": "2026-07-14T09:58:30.457Z"
     }
   ]
 }
