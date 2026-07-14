@@ -1784,6 +1784,40 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-14T14-55/_report.md\n- Instagram: 이미 확정된 제거/강화 대비 구조와 두 트랙(정보형·관계형) 후크 가이드를 활용하여 채널별 문구, 해시태그 및 카드뉴스 레이아웃에 최적화된 콘텐\n- 코다리: distribution_package.md 내 배포 패키지를 최신 상태로 유지하고 인스타그램용 자산 업로드를 위한 자동화 체크리스트를 업데이트하\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📷 Instagram _(Head of Instagram)_\n> 📋 **지시**: 이미 확정된 제거/강화 대비 구조와 두 트랙(정보형·관계형) 후크 가이드를 활용하여 채널별 문구, 해시태그 및 카드뉴스 레이아웃에 최적화된 콘텐츠 패키지를 완성하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만",
       "completedAt": "2026-07-14T15:07:42.635Z"
+    },
+    {
+      "id": "20260714155850-kgr8",
+      "title": "Designer 에이전트에게 보고서 데이터 시각적 비교 매트릭스로 한 페이지 카드뉴스 레이아웃 제작 요청 (제거/#808080, 강화/#FF4B5C 대비 적용)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-14T15:58:50.128Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T15-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T15-55/_report.md\n- Researcher: 국내 모든 보험사의 상품 구조를 조사하고, 신규 보험 포함 각 사별 강점과 약점을 데이터 기반으로 요약하십시오.\n- Writer: 조사된 데이터를 바탕으로 제거/강화 대비 구조를 활용하여 블로그용 한 페이지 분량의 보고서를 작성하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 상품 구조를 조사하고, 신규 보험 포함 각 사별 강점과 약점을 데이터 기반으로 요약하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: | 구분 ",
+      "completedAt": "2026-07-14T16:03:58.572Z"
+    },
+    {
+      "id": "20260714155850-medh",
+      "title": "Instagram 에이전트에게 정보형/관계형 두 트랙 후크 세트를 활용한 채널별 콘텐츠 최적화 및 배포 패키지 작성 위임",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-14T15:58:50.175Z",
+      "status": "done",
+      "sessionDir": "2026-07-14T15-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-14T15-55/_report.md\n- Researcher: 국내 모든 보험사의 상품 구조를 조사하고, 신규 보험 포함 각 사별 강점과 약점을 데이터 기반으로 요약하십시오.\n- Writer: 조사된 데이터를 바탕으로 제거/강화 대비 구조를 활용하여 블로그용 한 페이지 분량의 보고서를 작성하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 상품 구조를 조사하고, 신규 보험 포함 각 사별 강점과 약점을 데이터 기반으로 요약하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: | 구분 ",
+      "completedAt": "2026-07-14T16:03:58.594Z"
     }
   ]
 }
