@@ -1,0 +1,12 @@
+{
+  "layout": "vertical_split",
+  "colors": {
+    "remove": "#808080",
+    "enhance": "#FF4B5C"
+  },
+  "typography": [
+    {"selector": ".summary-value", "size": "28pt"},
+    {"selector": ".detail-text", "size": "18pt"}
+  ],
+  "last_verified": "2026-07-14"
+}
