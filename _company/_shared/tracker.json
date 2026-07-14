@@ -1053,6 +1053,81 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-14T03-25/_report.md\n- Designer: 이미 확정된 제거(#808080) vs 강화(#FF4B5C) 대비 구조와 28pt/18pt 가독성 수치를 유지하면서, 실제 이미지 제작에 즉시 \n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n이미 확정된 시각적 대비 구조와 가독성 수치를 바탕으로, 실제 이미지 제작 단계에서 즉시 참조할 수 있는 상세한 레이아웃 사양을 작성했습니다. 불필요한 특약(제거)은 회색(#808080), 핵심 보장 강화(강화)는 브랜드 컬러(#FF4B5C)로 시각적 대비를 명확히 했으며, 가독성을 극대화하기 위해 수치는 28pt",
       "completedAt": "2026-07-14T03:30:35.434Z"
+    },
+    {
+      "id": "20260714034504-9pb0",
+      "title": "**레이아웃:** 세로형 2분할 — 왼쪽(제거), 오른쪽(강화). 구분선은 명확하게 유지.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T03:45:04.995Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T03-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714034505-w1iw",
+      "title": "**색상 매핑:** 불필요한 항목 - #808080 | 핵심 보장 및 수치 강조 - #FF4B5C",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T03:45:05.030Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T03-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714034505-09ih",
+      "title": "**타이포그래피 가독성:** 헤드라인/수치는 28pt 이상, 본문은 18pt 고정.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T03:45:05.051Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T03-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714034505-73xu",
+      "title": "모든 '제거' 항목에 회색(#808080) 적용 및 삭제 아이콘(X/Delete) 포함 여부 확인.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T03:45:05.072Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T03-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260714034505-c0ms",
+      "title": "진단비, 수술비 등 핵심 보장 강조 포인트에 브랜드 컬러(#FF4B5C) 오버레이 처리.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-14T03:45:05.099Z",
+      "status": "pending",
+      "sessionDir": "2026-07-14T03-40",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
