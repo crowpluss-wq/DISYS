@@ -1,0 +1,20 @@
+{
+  "deployment_status": "completed",
+  "validation_results": [
+    {
+      "check": "remove_vs_boost_matrix",
+      "result": "pass",
+      "message": "removed items greyed, boosted items #FF4B5C"
+    },
+    {
+      "check": "typography_spec",
+      "result": "pass",
+      "message": "headline 28pt, body 18pt fixed"
+    },
+    {
+      "check": "cardnews_layout",
+      "result": "pass",
+      "message": "vertical two-column split applied with icons"
+    }
+  ]
+}
