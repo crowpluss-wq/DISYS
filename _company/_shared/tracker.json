@@ -1903,6 +1903,40 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-15T11-57/_report.md\n- Researcher: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n- Writer: 수집된 데이터를 바탕으로 한 페이지 분량의 블로그용 비교 보고서를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 요구사항을 검토한 결과, 비교",
       "completedAt": "2026-07-15T12:09:03.409Z"
+    },
+    {
+      "id": "20260715130433-gqae",
+      "title": "한 페이지 분량 카드뉴스 레이아웃 적용 완료 확인",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-07-15T13:04:33.896Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T12-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T12-57/_report.md\n- Researcher: 최근 결정 사항에 따라 제거(#808080)/강화(#FF4B5C) 대비 구조를 반영한 비교 매트릭스의 수치를 정밀하게 업데이트하고 보고서용 기초\n- Writer: 업데이트된 비교 매트릭스를 활용해 한 페이지 분량의 보험 요약 보고서를 작성하고, 인스타그램 배포를 위해 정보형(후크 A)과 관계형(후크 B) \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 결정 사항에 따라 제거(#808080)/강화(#FF4B5C) 대비 구조를 반영한 비교 매트릭스의 수치를 정밀하게 업데이트하고 보고서용 기초 데이터 최신성을 검증하십시오.\n> 🔧 **도구 실행**: _(없",
+      "completedAt": "2026-07-15T13:06:53.318Z"
+    },
+    {
+      "id": "20260715130433-axyl",
+      "title": "인스타그램 채널별 문구(정보형/관계형) 검증완료 및 자산 준비 끝",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-07-15T13:04:33.919Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T12-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T12-57/_report.md\n- Researcher: 최근 결정 사항에 따라 제거(#808080)/강화(#FF4B5C) 대비 구조를 반영한 비교 매트릭스의 수치를 정밀하게 업데이트하고 보고서용 기초\n- Writer: 업데이트된 비교 매트릭스를 활용해 한 페이지 분량의 보험 요약 보고서를 작성하고, 인스타그램 배포를 위해 정보형(후크 A)과 관계형(후크 B) \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 결정 사항에 따라 제거(#808080)/강화(#FF4B5C) 대비 구조를 반영한 비교 매트릭스의 수치를 정밀하게 업데이트하고 보고서용 기초 데이터 최신성을 검증하십시오.\n> 🔧 **도구 실행**: _(없",
+      "completedAt": "2026-07-15T13:06:53.340Z"
     }
   ]
 }
