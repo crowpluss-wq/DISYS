@@ -2124,6 +2124,36 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-15T17-57/_report.md\n- Researcher: 대한민국 모든 보험사의 최신 상품 구조와 가입 조건을 조사하고, 최근에 출시된 신형 보험들의 주요 특징과 단점을 정리해줘.\n- Writer: 수집된 데이터를 바탕으로 '보험의 장단점 비교' 보고서를 작성해. 각 사별 강점이 한눈에 들어오게 구성하고, 어떤 보험이 개인에게 가장 유리한지\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 대한민국 모든 보험사의 최신 상품 구조와 가입 조건을 조사하고, 최근에 출시된 신형 보험들의 주요 특징과 단점을 정리해줘.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**:",
       "completedAt": "2026-07-15T18:08:14.126Z"
+    },
+    {
+      "id": "20260715181649-yaxg",
+      "title": "모든 비교 매트릭스 내 수치(보험료, 가입조건 등)가 최소 18pt 이상인지 확인",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-15T18:16:49.393Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T18-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260715181649-ywqq",
+      "title": "제거 포인트(#808080)와 강화포인트(#FF4B5C)의 대비 구도가 시각적으로 명확한지 검증",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-15T18:16:49.416Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T18-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
