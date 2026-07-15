@@ -1828,11 +1828,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-15T12:03:46.847Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T11-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T11-57/_report.md\n- Researcher: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n- Writer: 수집된 데이터를 바탕으로 한 페이지 분량의 블로그용 비교 보고서를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 요구사항을 검토한 결과, 비교",
+      "completedAt": "2026-07-15T12:09:03.340Z"
     },
     {
       "id": "20260715120347-7xc2",
@@ -1843,11 +1845,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-15T12:03:47.152Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T11-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T11-57/_report.md\n- Researcher: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n- Writer: 수집된 데이터를 바탕으로 한 페이지 분량의 블로그용 비교 보고서를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 요구사항을 검토한 결과, 비교",
+      "completedAt": "2026-07-15T12:09:03.358Z"
     },
     {
       "id": "20260715120347-iyev",
@@ -1858,11 +1862,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-15T12:03:47.160Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T11-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T11-57/_report.md\n- Researcher: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n- Writer: 수집된 데이터를 바탕으로 한 페이지 분량의 블로그용 비교 보고서를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 요구사항을 검토한 결과, 비교",
+      "completedAt": "2026-07-15T12:09:03.365Z"
     },
     {
       "id": "20260715120347-gte2",
@@ -1873,11 +1879,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-15T12:03:47.170Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T11-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T11-57/_report.md\n- Researcher: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n- Writer: 수집된 데이터를 바탕으로 한 페이지 분량의 블로그용 비교 보고서를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 요구사항을 검토한 결과, 비교",
+      "completedAt": "2026-07-15T12:09:03.386Z"
     },
     {
       "id": "20260715120347-cjqq",
@@ -1888,11 +1896,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-15T12:03:47.188Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T11-57",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T11-57/_report.md\n- Researcher: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n- Writer: 수집된 데이터를 바탕으로 한 페이지 분량의 블로그용 비교 보고서를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 설계안(한화보험 등 포함)과 신규 보험의 장·단점을 조사하고 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 요구사항을 검토한 결과, 비교",
+      "completedAt": "2026-07-15T12:09:03.409Z"
     }
   ]
 }
