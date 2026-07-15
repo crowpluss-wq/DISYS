@@ -1937,6 +1937,91 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-15T12-57/_report.md\n- Researcher: 최근 결정 사항에 따라 제거(#808080)/강화(#FF4B5C) 대비 구조를 반영한 비교 매트릭스의 수치를 정밀하게 업데이트하고 보고서용 기초\n- Writer: 업데이트된 비교 매트릭스를 활용해 한 페이지 분량의 보험 요약 보고서를 작성하고, 인스타그램 배포를 위해 정보형(후크 A)과 관계형(후크 B) \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 결정 사항에 따라 제거(#808080)/강화(#FF4B5C) 대비 구조를 반영한 비교 매트릭스의 수치를 정밀하게 업데이트하고 보고서용 기초 데이터 최신성을 검증하십시오.\n> 🔧 **도구 실행**: _(없",
       "completedAt": "2026-07-15T13:06:53.340Z"
+    },
+    {
+      "id": "20260715153914-sqxf",
+      "title": "writer의 수치 데이터 검증 (18pt 이상 표기 확인)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-15T15:39:14.365Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T15-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T15-27/_report.md\n- Writer: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작\n- 코다리: designer의 시각적 레이아웃과 writer의 수치 데이터를 통합하여 distribution_package.md 내 배포 패키지를 최신 상태\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작성하고, 인스타그램 배포를 위한 두 트랙(정보/관계형) 후크 세트를 포함하십시오.\n> 🔧 **도",
+      "completedAt": "2026-07-15T15:41:34.773Z"
+    },
+    {
+      "id": "20260715153914-i2wg",
+      "title": "designer의 시각적 대비(회색/주황색) 레이아웃 적용 완료 여부 확인",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-15T15:39:14.692Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T15-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T15-27/_report.md\n- Writer: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작\n- 코다리: designer의 시각적 레이아웃과 writer의 수치 데이터를 통합하여 distribution_package.md 내 배포 패키지를 최신 상태\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작성하고, 인스타그램 배포를 위한 두 트랙(정보/관계형) 후크 세트를 포함하십시오.\n> 🔧 **도",
+      "completedAt": "2026-07-15T15:41:34.790Z"
+    },
+    {
+      "id": "20260715153914-9icb",
+      "title": "인스타그램 두 트랙 후크 세트 포함 여부 체크",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-15T15:39:14.701Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T15-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T15-27/_report.md\n- Writer: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작\n- 코다리: designer의 시각적 레이아웃과 writer의 수치 데이터를 통합하여 distribution_package.md 내 배포 패키지를 최신 상태\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작성하고, 인스타그램 배포를 위한 두 트랙(정보/관계형) 후크 세트를 포함하십시오.\n> 🔧 **도",
+      "completedAt": "2026-07-15T15:41:34.800Z"
+    },
+    {
+      "id": "20260715153914-7hiu",
+      "title": "distribution_package.md 업데이트 상태 최종 검증 루프 통과",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-15T15:39:14.713Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T15-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T15-27/_report.md\n- Writer: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작\n- 코다리: designer의 시각적 레이아웃과 writer의 수치 데이터를 통합하여 distribution_package.md 내 배포 패키지를 최신 상태\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작성하고, 인스타그램 배포를 위한 두 트랙(정보/관계형) 후크 세트를 포함하십시오.\n> 🔧 **도",
+      "completedAt": "2026-07-15T15:41:34.811Z"
+    },
+    {
+      "id": "20260715153914-311c",
+      "title": "deployment_ready 상태 표시 更新",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-15T15:39:14.727Z",
+      "status": "done",
+      "sessionDir": "2026-07-15T15-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T15-27/_report.md\n- Writer: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작\n- 코다리: designer의 시각적 레이아웃과 writer의 수치 데이터를 통합하여 distribution_package.md 내 배포 패키지를 최신 상태\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조와 2016-7-13 승인 문구를 활용하여 일반 소비자용 보험 비교 보고서를 작성하고, 인스타그램 배포를 위한 두 트랙(정보/관계형) 후크 세트를 포함하십시오.\n> 🔧 **도",
+      "completedAt": "2026-07-15T15:41:34.821Z"
     }
   ]
 }
