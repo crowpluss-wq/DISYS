@@ -2134,11 +2134,13 @@
         "designer"
       ],
       "createdAt": "2026-07-15T18:16:49.393Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T18-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T18-12/_report.md\n- Designer: 기존의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 반영하여 한 페이지 분량의 세로형 2분할 카드뉴스 시각 레이아웃을 구현하고 \n- Instagram: 작성된 비교 보고서의 제거/강화 대비 구조를 활용하여 인스타그램 채널별 문구와 해시태그을 최적화하며, 정보형과 관계형 두 트랙 후크 세트를 포함\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 기존의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 반영하여 한 페이지 분량의 세로형 2분할 카드뉴스 시각 레이아웃을 구현하고 모든 수치 글꼴은 최소 18pt 이상으로 확대.\n> 🔧 **도구 실행**: _(없음 —",
+      "completedAt": "2026-07-15T18:22:30.505Z"
     },
     {
       "id": "20260715181649-ywqq",
@@ -2149,11 +2151,13 @@
         "designer"
       ],
       "createdAt": "2026-07-15T18:16:49.416Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-15T18-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-15T18-12/_report.md\n- Designer: 기존의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 반영하여 한 페이지 분량의 세로형 2분할 카드뉴스 시각 레이아웃을 구현하고 \n- Instagram: 작성된 비교 보고서의 제거/강화 대비 구조를 활용하여 인스타그램 채널별 문구와 해시태그을 최적화하며, 정보형과 관계형 두 트랙 후크 세트를 포함\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 기존의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 반영하여 한 페이지 분량의 세로형 2분할 카드뉴스 시각 레이아웃을 구현하고 모든 수치 글꼴은 최소 18pt 이상으로 확대.\n> 🔧 **도구 실행**: _(없음 —",
+      "completedAt": "2026-07-15T18:22:30.529Z"
     }
   ]
 }
