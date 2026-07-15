@@ -1818,6 +1818,81 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-14T15-55/_report.md\n- Researcher: 국내 모든 보험사의 상품 구조를 조사하고, 신규 보험 포함 각 사별 강점과 약점을 데이터 기반으로 요약하십시오.\n- Writer: 조사된 데이터를 바탕으로 제거/강화 대비 구조를 활용하여 블로그용 한 페이지 분량의 보고서를 작성하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 국내 모든 보험사의 상품 구조를 조사하고, 신규 보험 포함 각 사별 강점과 약점을 데이터 기반으로 요약하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: | 구분 ",
       "completedAt": "2026-07-14T16:03:58.594Z"
+    },
+    {
+      "id": "20260715120346-0sy8",
+      "title": "한화손해보험 대표 상품별 보장 범위, 특약 유무, 가입 조건(나이대별/성별 예시 포함)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-15T12:03:46.847Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T11-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260715120347-7xc2",
+      "title": "국내 기타 주요 보험사(삼성화재, 현대해상 등) 대표 상품별 동일 항목",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-15T12:03:47.152Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T11-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260715120347-iyev",
+      "title": "최근 제안된 신규 보험 설계안 상세 내용 (장점 및 단점 추출용)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-15T12:03:47.160Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T11-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260715120347-gte2",
+      "title": "한화 대비 '강화' 포인트가 반영된 비교 매트릭스 내의 최신 데이터셋",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-15T12:03:47.170Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T11-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260715120347-cjqq",
+      "title": "관련 금융당국 공고 및 제도적 변경 사항 체크",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-15T12:03:47.188Z",
+      "status": "pending",
+      "sessionDir": "2026-07-15T11-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
