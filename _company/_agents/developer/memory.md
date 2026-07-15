@@ -94,3 +94,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-15] insurer_audit_summary.json을 사용하여 진단비·수술비 강화 모델과 제거 포인트를 매트릭스에 통합하고 distribution_package.md의 배포 패키지를 최신 상태로 유지하십시오. → 산출물 sessions/2026-07-15T16-42/developer.md
 - [2026-07-15] 진단비·수술비 강화 모델과 제거 포인트를 매트릭스에 통합하고, 모든 수치 글꼴을 최소 18pt 이상으로 확대하여 시각적 가독성을 확보한 후 distribution_package.md의 배포 패키지를 최신 상태로 유지하십시오. → 산출물 sessions/2026-07-15T16-57/developer.md
 - [2026-07-15] 코다리로서 reports/insurance_comparison_matrix_final.md의 수치를 보완하고 distribution_package.md 내 비교 매트릭스를 최종 완성하며 한자와 협업하여 배포 패키지를 마무리하십시오. → 산출물 sessions/2026-07-15T17-27/developer.md
+- [2026-07-15] 진단비·수술비 강화 모델과 제거 포인트를 매트릭스에 통합하고, 가독성 확보를 위한 18pt 이상 글꼴을 적용하며 배포 패키지를 최신 상태로 유지하십시오. → 산출물 sessions/2026-07-15T19-57/developer.md
