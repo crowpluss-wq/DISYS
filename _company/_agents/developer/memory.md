@@ -119,3 +119,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-16] reports/finalized_blog_and_instagram_package.md 내 모든 비교 수치와 금액이 모바일 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T19-27/developer.md
 - [2026-07-16] approved 태그가 붙은 보고서를 활용하여 실제 배포용 디자인 파일이나 광고 문구 등의 기술적 정합성을 최종 검증하고 deployment_ready 상태를 확인하십시오. → 산출물 sessions/2026-07-16T19-57/developer.md
 - [2026-07-16] reports/blog_and_instagram_package.md 내 모든 비교 수치와 금액이 모바일 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T21-12/developer.md
+- [2026-07-16] 모든 보험 비교 수치가 모바일용 18pt 이상 가독성 기준을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T21-42/developer.md
