@@ -110,3 +110,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-16] reports/finalized_blog_and_instagram_package.md 내의 제거(#808080)/강화 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트 수치 및 내용 정합성을 최종 검증하고 통과 시 deployment_ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T09-57/developer.md
 - [2026-07-16] reports/instagram_final_deployment_package.md 내의 모든 수치와 내용이 제거(#808080)/강화(#FF4B5C) 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트들과 정합하는지 최종 검증하고 통과 시 deployment_ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T12-12/developer.md
 - [2026-07-16] reports/instagram_final_deployment_package.md 내의 모든 수치와 내용이 제거(#808080)/강화(#FF4B5C) 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트들과 정합하는지 최종 검증하고 통과 시 deployment_ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T12-27/developer.md
+- [2026-07-16] 검증 루프 경로 오류를 수정하고 모든 수치가 정합한 것을 재확인한 뒤 deployment_ready 태그를 부여하세요. → 산출물 sessions/2026-07-16T12-42/developer.md
