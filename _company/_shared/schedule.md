@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 7. 17. 오전 12:30:29_
+_업데이트: 2026. 7. 17. 오전 12:46:10_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -15,9 +15,9 @@ _업데이트: 2026. 7. 17. 오전 12:30:29_
 - [2026-07-16] 제거(#808080)/강화(#FF4B5C) 대비 구조가 반영된 세로형 2분할 비교 카드뉴스 시각 소스 패키지를 제작하십시오. → 산출물 sessions/2026-07-16T11-57/designer.md
 - [2026-07-16] 한 페이지 분량의 제거(#808080)/강화(#FF4B5C) 대비 구조를 시각적으로 극대화하는 카드뉴스 레이아웃 설계 → 산출물 sessions/2026-07-16T14-27/designer.md
 ### 💻 코다리
-- [2026-07-16] reports/instagram_final_deployment_package.md 내의 모든 수치와 내용이 제거(#808080)/강화(#FF4B5C) 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트들과 정합하는지 최종 검증하고 통과 시 deployment_ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T12-27/developer.md
 - [2026-07-16] 검증 루프 경로 오류를 수정하고 모든 수치가 정합한 것을 재확인한 뒤 deployment_ready 태그를 부여하세요. → 산출물 sessions/2026-07-16T12-42/developer.md
 - [2026-07-16] reports/instagram_final_deployment_package.md 내의 모든 수치와 내용이 제거(#808080)/강화(#FF4B5C) 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트들과 정합하는지 최종 검증하고 통과 시 deployment_ready 태그를 부여하시오. → 산출물 sessions/2026-07-16T13-42/developer.md
+- [2026-07-16] reports/deployment_package_final.md 내 모든 수치가 18pt 가독성 기준을 충족하는지, 제거(#808080)/강화(FF4B5C) 대비 구조 및 인스타그램 두 트랙 후크와 정합한지 검증하고 통과 시 deployment_ready 태그를 부착할 것 → 산출물 sessions/2026-07-16T15-42/developer.md
 ### 💼 현빈
 - [2026-07-16] 제거/강화 대비 구조와 인스타그램 배포 패키지의 수치 및 내용 정합성을 최종 검증하고 deployment_ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T09-42/business.md
 - [2026-07-16] reports/finalized_blog_and_instagram_package.md을 검토하여 제거/강화 대비 구조, 진단·수술비 강화 수치, 인스타그램 트랙별 후크가 사업 목표에 부합하는지 확인하고 최종 승인하십시오. → 산출물 sessions/2026-07-16T10-12/business.md
