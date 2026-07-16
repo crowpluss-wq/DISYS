@@ -2294,6 +2294,23 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-16T17-27/_report.md\n- Researcher: 보험사별 특약 정보를 수집하여 제거(중복/불필요)와 강화(진단·수술비 65% 이상) 항목을 구분하고 비교 분석 결과 요약\n- Writer: 분석 결과를 바탕으로 한 페이지 분량의 블로그용 보고서를 작성하며, 인스타그램 오전(정보형)/오후(관계형) 두 트랙 후크와 캡션을 포함한 배포 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 보험사별 특약 정보를 수집하여 제거(중복/불필요)와 강화(진단·수술비 65% 이상) 항목을 구분하고 비교 분석 결과 요약\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ",
       "completedAt": "2026-07-16T17:33:26.725Z"
+    },
+    {
+      "id": "20260716190049-c3ac",
+      "title": "deployment_ready 태그 부여 예정 (Developer 후속 작업)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-16T19:00:49.443Z",
+      "status": "done",
+      "sessionDir": "2026-07-16T18-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-16T18-57/_report.md\n- Designer: Writer의 요약 보고서와 한 페이지 분량의 제거(#808080)/강화(#FF4B5C) 대비 구조를 바탕으로 세로형 2분할 레이아웃을 사용하여\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\nCEO 지시와 이전 결정 사항을 종합할 때, 가장 시급한 단일 작업은 **\"제거/강화 대비 구조를 반영한 한 페이지 분량의 카드뉴스 소스 패키지 완성 및 배포 준비\"**입니다. 이미 여러 차례 검증된 세로형 2분할 레이아웃과 컬러 체계(#808080 / #FF4B5C)가 확정되어 있으므로, 이를 실제 구현 파일로 ",
+      "completedAt": "2026-07-16T19:00:49.472Z"
     }
   ]
 }
