@@ -121,3 +121,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-16] reports/blog_and_instagram_package.md 내 모든 비교 수치와 금액이 모바일 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T21-12/developer.md
 - [2026-07-16] 모든 보험 비교 수치가 모바일용 18pt 이상 가독성 기준을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T21-42/developer.md
 - [2026-07-16] reports/blog_and_instagram_package.md 내 모든 수치가 모바일 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T22-42/developer.md
+- [2026-07-16] 인스타그램 채널별 피크타임 배포 일정을 최종 검증하고 배포 준비 상태로 관리하십시오. → 산출물 sessions/2026-07-16T23-12/developer.md
