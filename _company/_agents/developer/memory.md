@@ -115,3 +115,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-16] reports/deployment_package_final.md 내 모든 수치가 18pt 가독성 기준을 충족하는지, 제거(#808080)/강화(FF4B5C) 대비 구조 및 인스타그램 두 트랙 후크와 정합한지 검증하고 통과 시 deployment_ready 태그를 부착할 것 → 산출물 sessions/2026-07-16T15-42/developer.md
 - [2026-07-16] 모든 비교 지표와 수치가 모바일 가독성 기준(18pt 이상)을 충족하는지 재확인하고 제거/강화 대비 구조가 인스타그램 배포 패키지와 정합한지 최종 검증 후 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T16-27/developer.md
 - [2026-07-16] reports/instagram_final_deployment_package.md 내의 모든 수치가 18pt 가독성 기준을 충족하는지, 제거(#808080)/강화(#FF4B5C) 대비 구조가 인스타그램 배포 패키지와 정합한지 최종 검증 후 deployment_ready 태그를 부착하시오. → 산출물 sessions/2026-07-16T17-12/developer.md
+- [2026-07-16] 모든 수치가 18pt 이상이라는 가독성 기준을 충족하는지, 제거/강화 대비 구조와 인스타그램 배포 패키지가 정합한지 최종 검증 후 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T18-27/developer.md
