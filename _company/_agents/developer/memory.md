@@ -106,3 +106,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-16] reports/blog_comparison_report_and_instagram_hooks.md 내의 제거(#808080)/강화(#FF4B5C) 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트 수치 및 내용 정합성을 최종 검증하고 통과 시 deployment_ready 태그 부여 → 산출물 sessions/2026-07-16T06-57/developer.md
 - [2026-07-16] Designer이 생성한 비주얼 소스의 수치, 모바일 가독성 기준 준수 여부 및 인스타그램 후크 패키지와의 정합성을 최종 검증하고 deployment-ready 태그를 부여하세요. → 산출물 sessions/2026-07-16T07-42/developer.md
 - [2026-07-16] reports/finalized_blog_and_instagram_package.md 내의 제거/강화 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트 수치 및 내용 정합성을 최종 검증하고 deployment-ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T08-42/developer.md
+- [2026-07-16] reports/finalized_blog_and_instagram_package.md 내의 제거(#808080)/강화(#FF4B5C) 대비 구조, 모바일 가독성(18pt), 인스타그램 후크 세트 수치 및 내용 정합성을 최종 검증하고 통과 시 deployment_ready 태그를 부여하십시오. → 산출물 sessions/2026-07-16T09-27/developer.md
