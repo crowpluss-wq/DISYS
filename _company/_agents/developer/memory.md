@@ -126,3 +126,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-17] researcher_update_matrix.md의 모든 보험 비교 수치가 모바일 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하세요. → 산출물 sessions/2026-07-17T01-27/developer.md
 - [2026-07-17] Designer가 정의한 제거(#808080)/강화(#FF4B5C) 대비 및 18pt 수치 고정 사양을 준수한 세로형 2분할 카드뉴스 이미지 생성 → 산출물 sessions/2026-07-17T03-12/developer.md
 - [2026-07-17] 제공된 디자인 사양에 따라 배포용 카드뉴스 이미지 세트 생성 및 deployment_ready 태그 부여 → 산출물 sessions/2026-07-17T05-12/developer.md
+- [2026-07-17] Designer의 사양(제거 #808080, 강화 #FF4B5C 대비 및 수치 18pt 이상 고정)을 준수한 카드뉴스 이미지 세트를 확인하고 deployment_ready 태그를 부여하세요. → 산출물 sessions/2026-07-17T05-42/developer.md
