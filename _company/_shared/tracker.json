@@ -2617,6 +2617,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-17T21-12/_report.md\n- 현빈: 제거(#808080) vs 강화(#FF4B5C) 대비 구조의 보험 비교 매트릭스 요약 및 비즈니스 강점/약점 분석\n- Writer: 한 페이지 분량의 제거/강화 대비 기반 보험 비교 보고서 작성 및 인스타그램용 두 트랙 후크 세트 구성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 제거(#808080) vs 강화(#FF4B5C) 대비 구조의 보험 비교 매트릭스 요약 및 비즈니스 강점/약점 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal ",
       "completedAt": "2026-07-17T21:20:55.425Z"
+    },
+    {
+      "id": "20260717220100-q6r1",
+      "title": "제거(#808080)/강화(#FF4B5C) 대비 구조 반영 여부",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-17T22:01:00.960Z",
+      "status": "done",
+      "sessionDir": "2026-07-17T21-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T21-57/_report.md\n- Designer: writer_final_package.md의 제거(#808080)/강화(#FF4B5C) 대비 구조와 인스타그램 후크 세트를 참조하여 시각적 카드\n- 코다리: /build/package 경로에서 deployment_ready 태그가 포함된 최종 보고서와 인스타그램 후크 세트를 확인한 뒤 각 플랫폼용 배\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: writer_final_package.md의 제거(#808080)/강화(#FF4B5C) 대비 구조와 인스타그램 후크 세트를 참조하여 시각적 카드뉴스 이미지 세트를 제작하고 모바일 가독성을 위해 수치를 18pt 이상으로 고정하십시오.",
+      "completedAt": "2026-07-17T22:06:39.189Z"
+    },
+    {
+      "id": "20260717220101-v5or",
+      "title": "모든 수치가 모바일에서 한눈에 보이는 18pt 이상인가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-17T22:01:01.002Z",
+      "status": "done",
+      "sessionDir": "2026-07-17T21-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T21-57/_report.md\n- Designer: writer_final_package.md의 제거(#808080)/강화(#FF4B5C) 대비 구조와 인스타그램 후크 세트를 참조하여 시각적 카드\n- 코다리: /build/package 경로에서 deployment_ready 태그가 포함된 최종 보고서와 인스타그램 후크 세트를 확인한 뒤 각 플랫폼용 배\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: writer_final_package.md의 제거(#808080)/강화(#FF4B5C) 대비 구조와 인스타그램 후크 세트를 참조하여 시각적 카드뉴스 이미지 세트를 제작하고 모바일 가독성을 위해 수치를 18pt 이상으로 고정하십시오.",
+      "completedAt": "2026-07-17T22:06:39.220Z"
+    },
+    {
+      "id": "20260717220101-5uzy",
+      "title": "인스타그램 후크 세트의 플랫폼별 배치 확인",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-17T22:01:01.018Z",
+      "status": "done",
+      "sessionDir": "2026-07-17T21-57",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T21-57/_report.md\n- Designer: writer_final_package.md의 제거(#808080)/강화(#FF4B5C) 대비 구조와 인스타그램 후크 세트를 참조하여 시각적 카드\n- 코다리: /build/package 경로에서 deployment_ready 태그가 포함된 최종 보고서와 인스타그램 후크 세트를 확인한 뒤 각 플랫폼용 배\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: writer_final_package.md의 제거(#808080)/강화(#FF4B5C) 대비 구조와 인스타그램 후크 세트를 참조하여 시각적 카드뉴스 이미지 세트를 제작하고 모바일 가독성을 위해 수치를 18pt 이상으로 고정하십시오.",
+      "completedAt": "2026-07-17T22:06:39.243Z"
     }
   ]
 }

@@ -138,3 +138,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-17] /build/package에서 deployment_ready 태그가 포함된 최종 보고서와 인스타그램 후크 세트를 확인하고, 각 플랫폼용 배포 패키지를 추출한 뒤 검증하십시오. → 산출물 sessions/2026-07-17T18-42/developer.md
 - [2026-07-17] builder 경로를 /build/package로 수정하고 validate_data 도구로 deployment_ready 태그 포함 여부 검증 루프를 실행한 후, 각 플랫폼용 배포 패키지를 추출하십시오. → 산출물 sessions/2026-07-17T19-12/developer.md
 - [2026-07-17] /build/package에서 deployment_ready 태그가 포함된 최종 보고서와 인스타그램 후크 세트를 확인하고, 각 플랫폼용 배포 패키지를 추출한 뒤 검증 루프를 실행하십시오. → 산출물 sessions/2026-07-17T20-57/developer.md
+- [2026-07-17] /build/package 경로에서 deployment_ready 태그가 포함된 최종 보고서와 인스타그램 후크 세트를 확인한 뒤 각 플랫폼용 배포 패키지를 추출하고 검증 루프를 실행하여 시각화 대비 구조의 정확성을 검증하십시오. → 산출물 sessions/2026-07-17T21-57/developer.md
