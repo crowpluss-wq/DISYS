@@ -128,3 +128,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-17] 제공된 디자인 사양에 따라 배포용 카드뉴스 이미지 세트 생성 및 deployment_ready 태그 부여 → 산출물 sessions/2026-07-17T05-12/developer.md
 - [2026-07-17] Designer의 사양(제거 #808080, 강화 #FF4B5C 대비 및 수치 18pt 이상 고정)을 준수한 카드뉴스 이미지 세트를 확인하고 deployment_ready 태그를 부여하세요. → 산출물 sessions/2026-07-17T05-42/developer.md
 - [2026-07-17] Designer의 시각 사양과 Writer의 문구를 통합한 배포용 카드뉴스 이미지 세트를 생성하고, 모든 파일에 deployment_ready 태그를 부여하여 플랫폼별 게시 준비 상태로 관리하십시오. → 산출물 sessions/2026-07-17T10-27/developer.md
+- [2026-07-17] deployment_ready 태그가 달린 비교 보고서 및 인스타그램 후크 세트를 확인하고 플랫폼별 배포용 파일로 패키징하십시오 → 산출물 sessions/2026-07-17T12-12/developer.md
