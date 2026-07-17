@@ -2508,11 +2508,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-17T15:15:58.940Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-17T15-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T15-12/_report.md\n- Researcher: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭\n- 현빈: 검증된 데이터를 바탕으로 '제거(#808080)'와 '강화(#FF4B5C)' 대비 구조를 활용하여 보험사별 핵심 강점과 약점을 비즈니스 관점에서\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭스의 빈칸을 정확한 수치와 정보로 채우십시오.\n> 🔧 **도구 실",
+      "completedAt": "2026-07-17T15:20:41.378Z"
     },
     {
       "id": "20260717151558-d2w7",
@@ -2523,11 +2525,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-17T15:15:58.996Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-17T15-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T15-12/_report.md\n- Researcher: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭\n- 현빈: 검증된 데이터를 바탕으로 '제거(#808080)'와 '강화(#FF4B5C)' 대비 구조를 활용하여 보험사별 핵심 강점과 약점을 비즈니스 관점에서\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭스의 빈칸을 정확한 수치와 정보로 채우십시오.\n> 🔧 **도구 실",
+      "completedAt": "2026-07-17T15:20:41.399Z"
     },
     {
       "id": "20260717151559-a7mv",
@@ -2538,11 +2542,64 @@
         "researcher"
       ],
       "createdAt": "2026-07-17T15:15:59.194Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-17T15-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T15-12/_report.md\n- Researcher: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭\n- 현빈: 검증된 데이터를 바탕으로 '제거(#808080)'와 '강화(#FF4B5C)' 대비 구조를 활용하여 보험사별 핵심 강점과 약점을 비즈니스 관점에서\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭스의 빈칸을 정확한 수치와 정보로 채우십시오.\n> 🔧 **도구 실",
+      "completedAt": "2026-07-17T15:20:41.413Z"
+    },
+    {
+      "id": "20260717151839-9rsj",
+      "title": "[RESEARCHER] identify empty fields in `reports/insurance_comparison_matrix_final.md`",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-17T15:18:39.585Z",
+      "status": "done",
+      "sessionDir": "2026-07-17T15-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T15-12/_report.md\n- Researcher: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭\n- 현빈: 검증된 데이터를 바탕으로 '제거(#808080)'와 '강화(#FF4B5C)' 대비 구조를 활용하여 보험사별 핵심 강점과 약점을 비즈니스 관점에서\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭스의 빈칸을 정확한 수치와 정보로 채우십시오.\n> 🔧 **도구 실",
+      "completedAt": "2026-07-17T15:20:41.428Z"
+    },
+    {
+      "id": "20260717151839-s16i",
+      "title": "[RESEARCHER] verify each insurance company's specific rider and coverage per fact-check protocol",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-17T15:18:39.618Z",
+      "status": "done",
+      "sessionDir": "2026-07-17T15-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T15-12/_report.md\n- Researcher: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭\n- 현빈: 검증된 데이터를 바탕으로 '제거(#808080)'와 '강화(#FF4B5C)' 대비 구조를 활용하여 보험사별 핵심 강점과 약점을 비즈니스 관점에서\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭스의 빈칸을 정확한 수치와 정보로 채우십시오.\n> 🔧 **도구 실",
+      "completedAt": "2026-07-17T15:20:41.443Z"
+    },
+    {
+      "id": "20260717151839-pugp",
+      "title": "[RESEARCHER] populate the matrix with verified figures only — remove any speculative or unverified data",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-17T15:18:39.635Z",
+      "status": "done",
+      "sessionDir": "2026-07-17T15-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T15-12/_report.md\n- Researcher: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭\n- 현빈: 검증된 데이터를 바탕으로 '제거(#808080)'와 '강화(#FF4B5C)' 대비 구조를 활용하여 보험사별 핵심 강점과 약점을 비즈니스 관점에서\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 의사결정에서 정의된 fact_check_protocol을 엄격히 준수하며, 모든 보험사의 특약과 보장 범위를 실제 데이터로 검증하고 매트릭스의 빈칸을 정확한 수치와 정보로 채우십시오.\n> 🔧 **도구 실",
+      "completedAt": "2026-07-17T15:20:41.459Z"
     }
   ]
 }
