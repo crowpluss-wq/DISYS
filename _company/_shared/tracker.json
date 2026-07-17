@@ -2362,6 +2362,51 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-17T01-12/_report.md\n- Researcher: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n- Writer: 모든 보험사의 장단점과 신규 보험을 포함한 블로그용 보고서 초안 작성 (제거/강화 대비 구조 활용)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: CEO 지시사항인 \"보험사별 보험 설계 자료 수집 ",
       "completedAt": "2026-07-17T01:20:45.416Z"
+    },
+    {
+      "id": "20260717023108-dbu2",
+      "title": "**제거 대비 비교표** - 제거 항목은 회색 처리 및 아이콘으로 시각적 배제 표현",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-17T02:31:08.580Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T02-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260717023108-ofvd",
+      "title": "**강화 보장 강조 시트** - 강화되는 보험 가입 혜택을 #FF4B5C 컬러로 시인성 확보",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-17T02:31:08.611Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T02-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260717023108-2kdx",
+      "title": "**대표 카드뉴스 이미지 세트** - 두분할 레이아웃의 대비 구조를 극대화한 최종 비주얼 자산",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-17T02:31:08.627Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T02-27",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
