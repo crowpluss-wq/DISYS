@@ -2311,6 +2311,51 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-16T18-57/_report.md\n- Designer: Writer의 요약 보고서와 한 페이지 분량의 제거(#808080)/강화(#FF4B5C) 대비 구조를 바탕으로 세로형 2분할 레이아웃을 사용하여\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\nCEO 지시와 이전 결정 사항을 종합할 때, 가장 시급한 단일 작업은 **\"제거/강화 대비 구조를 반영한 한 페이지 분량의 카드뉴스 소스 패키지 완성 및 배포 준비\"**입니다. 이미 여러 차례 검증된 세로형 2분할 레이아웃과 컬러 체계(#808080 / #FF4B5C)가 확정되어 있으므로, 이를 실제 구현 파일로 ",
       "completedAt": "2026-07-16T19:00:49.472Z"
+    },
+    {
+      "id": "20260717011550-4c81",
+      "title": "한화손해보험: 가입 조건(나이대별), 보험료 추정치, 강화된 세일즈 포인트 재검증",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-17T01:15:50.878Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T01-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260717011550-7owh",
+      "title": "경쟁사 A (현대해상 등): 중복/불필요 특약 제거 → 체감형 구조로 통합 검토",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-17T01:15:50.910Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T01-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260717011550-4gjn",
+      "title": "비교 수치: 모든 핵심 지표 최소 18pt 이상으로 고정 준비",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-17T01:15:50.925Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T01-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
