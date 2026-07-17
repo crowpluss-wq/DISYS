@@ -2321,11 +2321,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-17T01:15:50.878Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-17T01-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T01-12/_report.md\n- Researcher: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n- Writer: 모든 보험사의 장단점과 신규 보험을 포함한 블로그용 보고서 초안 작성 (제거/강화 대비 구조 활용)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: CEO 지시사항인 \"보험사별 보험 설계 자료 수집 ",
+      "completedAt": "2026-07-17T01:20:45.383Z"
     },
     {
       "id": "20260717011550-7owh",
@@ -2336,11 +2338,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-17T01:15:50.910Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-17T01-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T01-12/_report.md\n- Researcher: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n- Writer: 모든 보험사의 장단점과 신규 보험을 포함한 블로그용 보고서 초안 작성 (제거/강화 대비 구조 활용)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: CEO 지시사항인 \"보험사별 보험 설계 자료 수집 ",
+      "completedAt": "2026-07-17T01:20:45.404Z"
     },
     {
       "id": "20260717011550-4gjn",
@@ -2351,11 +2355,13 @@
         "researcher"
       ],
       "createdAt": "2026-07-17T01:15:50.925Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-17T01-12",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-17T01-12/_report.md\n- Researcher: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n- Writer: 모든 보험사의 장단점과 신규 보험을 포함한 블로그용 보고서 초안 작성 (제거/강화 대비 구조 활용)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 보험사별 보험 설계 자료 수집 및 비교 데이터 정리 → 코다리에게 전달\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: CEO 지시사항인 \"보험사별 보험 설계 자료 수집 ",
+      "completedAt": "2026-07-17T01:20:45.416Z"
     }
   ]
 }
