@@ -124,3 +124,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-16] 인스타그램 채널별 피크타임 배포 일정을 최종 검증하고 배포 준비 상태로 관리하십시오. → 산출물 sessions/2026-07-16T23-12/developer.md
 - [2026-07-17] reports/insurance_comparison_report.md 내 모든 보험 비교 수치가 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하십시오. → 산출물 sessions/2026-07-16T23-57/developer.md
 - [2026-07-17] researcher_update_matrix.md의 모든 보험 비교 수치가 모바일 가독성 기준(18pt 이상)을 충족하는지 최종 검증하고 deployment_ready 태그를 부착하세요. → 산출물 sessions/2026-07-17T01-27/developer.md
+- [2026-07-17] Designer가 정의한 제거(#808080)/강화(#FF4B5C) 대비 및 18pt 수치 고정 사양을 준수한 세로형 2분할 카드뉴스 이미지 생성 → 산출물 sessions/2026-07-17T03-12/developer.md

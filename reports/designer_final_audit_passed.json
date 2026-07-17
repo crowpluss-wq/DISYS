@@ -1,0 +1,10 @@
+{
+  "status": "deployment_ready",
+  "last_audited": "2026-07-17T03:45",
+  "visual_spec": {
+    "layout": "vertical_split_2pane",
+    "contrast_pair": ["#808080", "#FF4B5C"],
+    "font_size_min": 18,
+    "asset_reference": "/reports/cardnews_visual_package.md"
+  }
+}
