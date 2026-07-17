@@ -2498,6 +2498,51 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-17T12-57/_report.md\n- Designer: 완성된 비교 매트릭스 수치들을 기반으로 제거(#808080) vs 강화(#FF4B5C) 대비 구조가 반영된 카드뉴스 이미지 세트를 제작하고, 모\n- Writer: 비교 보고서를 바탕으로 인스타그램 배포용 두 트랙(오전 정보형 / 오후 관계형) 후크 세트를 작성하고, 대비 구조를 활용한 카드뉴스 문구 패키지\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 완성된 비교 매트릭스 수치들을 기반으로 제거(#808080) vs 강화(#FF4B5C) 대비 구조가 반영된 카드뉴스 이미지 세트를 제작하고, 모바일 가독성을 위해 모든 수치를 18pt 이상으로 고정하십시오.\n> 🔧 **도구 실행*",
       "completedAt": "2026-07-17T13:08:35.873Z"
+    },
+    {
+      "id": "20260717151558-i8od",
+      "title": "[RESEARCHER] identify empty fields in `reports/insurance_comparison_matrix_final.md`",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-17T15:15:58.940Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T15-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260717151558-d2w7",
+      "title": "[RESEARCHER] verify each insurance company's specific rider and coverage per fact-check protocol",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-17T15:15:58.996Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T15-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260717151559-a7mv",
+      "title": "[RESEARCHER] populate the matrix with verified figures only — remove any speculative or unverified data",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-17T15:15:59.194Z",
+      "status": "pending",
+      "sessionDir": "2026-07-17T15-12",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
