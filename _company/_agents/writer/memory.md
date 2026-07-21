@@ -548,3 +548,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-21] two-file merge: combine the Hwahnasa comparison report with the Instagram hook set into one deployment_ready package; preserve all 18% savings claims → 산출물 sessions/2026-07-21T04-21/writer.md
 - [2026-07-21] 인스타그램용 짧고 강렬한 후크 세트 8종과 블로그의 긴 호흡을 위한 한 페이지 분량 요약 보고서를 각각 작성하세요. 두 채널 성격에 맞춰 문체와 길이를 차별화하십시오. → 산출물 sessions/2026-07-21T06-51/writer.md
 - [2026-07-21] 최근 결정된 제거(#808080)/강화(#FF4B5C) 대비 구조를 활용해 블로그용 한 페이지 요약 보고서와 인스타그램/유튜브 쇼츠용 임팩트 중심 후크 문구를 각각 생산하십시오. → 산출물 sessions/2026-07-21T07-21/writer.md
+- [2026-07-21] 최근 제작된 보험사별 보장 비교표와 제거/강화 대비 구조를 하나로 묶어 한 페이지 분량의 블로그용 요약 보고서로 작성하고, 인스타그램 배포용 후크 세트(오전/오후)도 포함시킬 것 → 산출물 sessions/2026-07-21T09-57/writer.md
