@@ -1,0 +1,5 @@
+# 💼 현빈 — goals.md, 최근 의사결정 로그, 각 에이전트의 개인 목표를 모두 검토하고 지금 가장 가치 있는 단일 작업 하나와 이를 수행할 최적 에이전트(최대 2명) 결정
+
+<|channel>thought
+Goal is to pick the single highest-value task and assign up to 2 agents; I need every relevant file first. Read goals.md, company's recent decisions in .git/notes/decisions, then each agent's goal (leader_goal.md, writer_goal.md, designer_goal.md), the decision log of this team and the latest business memo to synthesize what hasn't been done already.
+<channel|><|tool_call>call:Read{path:<|"|>/Users/crowpluss/Documents/ai disys/_company/goals.md<|"|>}<tool_call|><|tool_call>call:Read{path:<|"|>/Users/crowpluss/Documents/ai disys/_company/.git/notes/decisions<|"|>}<tool_call|><|tool_call>call:Read{path:<|"|>/Users/crowpluss/Documents/ai disys/_company/_agents/leader/goal.md<|"|>}<tool_call|><|tool_call>call:Read{path:<|"|>/Users/crowpluss/Documents/ai disys/_company/_agents/writer/goal.md<|"|>}<tool_call|><|tool_call>call:Read{path:<|"|>/Users/crowpluss/Documents/ai disys/_company/_agents/designer/goal.md<|"|>}<tool_call|>
