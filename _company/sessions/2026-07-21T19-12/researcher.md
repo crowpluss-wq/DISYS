@@ -1,0 +1,5 @@
+# 🔍 Researcher — 메모리 내 유사한 항목이 있는지 중복 체크하고 동일 결과가 아닌 새로운 각도로 업무를 설정해.
+
+<|channel>thought
+The user wants a new task, not a rerun of the same one. I have: (1) goals/researcher_matrix_cleanup pointing to an already-final comparison matrix; (2) tasks/new_insurance_comparison_report which is about designing a NEW insurance model against existing ones — that's the "different angle" the CEO wants, not just re-writing old content. The research phase on this new model isn't fully captured in my latest runs yet. So I should: (1) read researcher_matrix_cleanup and tasks/new_insurance_comparison_report to understand exactly what was already done versus where the "new angle" still needs work; (2) identify which existing data is being reused and what new investigation it requires; (3) draft a fresh plan. First, list those two files to confirm I'm reading the right ones before digging in.
+<channel|><|tool_call>call:ListFiles{path:<|"|>/Users/crowpluss/ai disys/_company/{reports/*_matrix_final.md,tasks/*.md}<|"|>}<tool_call|>
