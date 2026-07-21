@@ -1,0 +1,3 @@
+# ✍️ Writer — 보험사별 대비 구조가 반영된 한 페이지 분량의 블로그용 비교 보고서를 작성하십시오. 인스타그램 배포를 위한 세 가지 버전의 후크 문구를 포함하고, 제거(808080)와 강화(FF4B5C) 프레임워크로 가독성을 확보하십시오.
+
+<|tool_call> call:Read{path:<|"|>tasks/writer_final_output.md<|"|>}<tool_call|>
