@@ -143,3 +143,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-21] deployment_ready 태그 확인 후 인스타그램·블로그용 배포 패키지 추출 및 검증 루프 실행 (코다리) → 산출물 sessions/2026-07-21T02-06/developer.md
 - [2026-07-21] deployment_ready 태그가 붙은 파일들 확인 후 인스타그램·블로그용 배포 패키지 추출 및 검증 루프 실행. 오류 없이 빌드 단계까지 완성할 수 있게 해. → 산출물 sessions/2026-07-21T02-21/developer.md
 - [2026-07-21] writer가 만든 통합 패키지를 확인하고 deployment_ready 태그를 달아 배포 준비 완료임을 명시할 것 → 산출물 sessions/2026-07-21T03-06/developer.md
+- [2026-07-21] writer_final_output.md에 표기된deployment_ready 패키지를 확인하여 블로그용과 인스타그램용 채널별로 최종 배포 준비가 되었는지 검증하고, 이상 없으면 배포를 위한 마지막 단계로 진행하십시오. → 산출물 sessions/2026-07-21T04-36/developer.md
