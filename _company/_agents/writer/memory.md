@@ -545,3 +545,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-21] 최근의 보험 비교 매트릭스(제거/강화 대비 구조)와 5종 후크 세트를 한데 모으고, 블로그 게시용으로 가독성 있게 압축한 한 페이지 분량의 보고서로 작성할 것 → 산출물 sessions/2026-07-21T03-06/writer.md
 - [2026-07-21] 기존의 제거(#808080)/강화(#FF4B5C) 대비 매트릭스와 5종 후크 세트를 통합하여 블로그용 한 페이지 분량 요약 보고서로 재구성 → 산출물 sessions/2026-07-21T03-21/writer.md
 - [2026-07-21] 최근 결정된 보험료 최대 18% 절감 수치를 강조하는 인스타그램용 쇼츠/릴스 제목 세트와 블로그 헤드라인 세트를 각각 뽑아내세요. 각 채널의 타겟에 맞게 문구를 최적화하고 결과물을 deployment_ready 상태로 패키징하세요. → 산출물 sessions/2026-07-21T04-06/writer.md
+- [2026-07-21] two-file merge: combine the Hwahnasa comparison report with the Instagram hook set into one deployment_ready package; preserve all 18% savings claims → 산출물 sessions/2026-07-21T04-21/writer.md
