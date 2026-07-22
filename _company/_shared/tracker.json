@@ -3280,6 +3280,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-22T13-44/_report.md\n- 현빈: 회사/개인 목표 및 최신 재무 상황과 현재 진행 중인 프로젝트들의 우선순위를 분석하여 오늘 집중할 단 하나의 고가치 작업 결정\n- 영숙: 최근 24시간 내의 의사결정 기록와 메모리를 검토해 유사한 작업이 이미 진행 중인지 확인하고 새로운 각도의 과제로 선별\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 회사/개인 목표 및 최신 재무 상황과 현재 진행 중인 프로젝트들의 우선순위를 분석하여 오늘 집중할 단 하나의 고가치 작업 결정\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: ",
       "completedAt": "2026-07-22T13:57:00.848Z"
+    },
+    {
+      "id": "20260722182419-930m",
+      "title": "**카드뉴스 세트 (9개)**: 보험사별 비교 테마에 맞춰진 제목과 한줄 요약문 작성 → `reports/card_news_copy.md`",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-07-22T18:24:19.020Z",
+      "status": "done",
+      "sessionDir": "2026-07-22T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-22T18-14/_report.md\n- Designer: reports/new_insurance_models_analysis.md의 수치를 활용해 모바일용 보험사별 비교 카드뉴스 9종과 앱 전환 배너 \n- Writer: 카드뉴스 헤드라인·바디(20자 내외)와 쇼츠 연계 인스타 배포 문구 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/new_insurance_models_analysis.md의 수치를 활용해 모바일용 보험사별 비교 카드뉴스 9종과 앱 전환 배너 6종 디자인\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-07-22T18:29:43.225Z"
+    },
+    {
+      "id": "20260722182419-hjjq",
+      "title": "**인스타그램 캡션 & 후크**: 카드뉴스와 연동되는 인스타 피드용 문구, 스토리용 배너 카피 세트 포함 (`tasks/instagram_package.md`)",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-07-22T18:24:19.041Z",
+      "status": "done",
+      "sessionDir": "2026-07-22T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-22T18-14/_report.md\n- Designer: reports/new_insurance_models_analysis.md의 수치를 활용해 모바일용 보험사별 비교 카드뉴스 9종과 앱 전환 배너 \n- Writer: 카드뉴스 헤드라인·바디(20자 내외)와 쇼츠 연계 인스타 배포 문구 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/new_insurance_models_analysis.md의 수치를 활용해 모바일용 보험사별 비교 카드뉴스 9종과 앱 전환 배너 6종 디자인\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-07-22T18:29:43.239Z"
+    },
+    {
+      "id": "20260722182419-j7k3",
+      "title": "**쇼츠(Shorts) 전환 문구** : 영상 끝에 삽입될 '보험 비교 앱'으로의 콜투액션 2~3가지 버전",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-07-22T18:24:19.047Z",
+      "status": "done",
+      "sessionDir": "2026-07-22T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-22T18-14/_report.md\n- Designer: reports/new_insurance_models_analysis.md의 수치를 활용해 모바일용 보험사별 비교 카드뉴스 9종과 앱 전환 배너 \n- Writer: 카드뉴스 헤드라인·바디(20자 내외)와 쇼츠 연계 인스타 배포 문구 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/new_insurance_models_analysis.md의 수치를 활용해 모바일용 보험사별 비교 카드뉴스 9종과 앱 전환 배너 6종 디자인\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-07-22T18:29:43.248Z"
     }
   ]
 }
