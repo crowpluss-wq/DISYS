@@ -3229,6 +3229,23 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-22T08-57/_report.md\n- Writer: tasks/writer_final_output.md에 있는 블로그 원고와 인스타 후크 세트를 바탕으로 17:30까지 최종 요약본과 배포용 카피를\n- Designer: 카드뉴스 9장 세트의 디자인을 마무리하고 앱 다운로드 유도 배너와 랜딩페이지를 제작하십시오\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: tasks/writer_final_output.md에 있는 블로그 원고와 인스타 후크 세트를 바탕으로 17:30까지 최종 요약본과 배포용 카피를 완성하세요\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**",
       "completedAt": "2026-07-22T09:09:55.285Z"
+    },
+    {
+      "id": "20260722103444-y5hw",
+      "title": "Goal 수립: 현재 회사 목표와 내 개인 목표 모두 반영",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-22T10:34:44.648Z",
+      "status": "done",
+      "sessionDir": "2026-07-22T10-29",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-22T10-29/_report.md\n- 현빈: 회사·에이전트별 goal.md 및 최신 의사결정을 분석하여 현재 우선순위가 가장 높은 핵심 과제 하나를 도출하시오\n- 영숙: 최근 24시간 내 생성된 산출물 중 유사 항목을 식별하고 동일 작업 반복 대신 다른 각도의 접근 방향을 제안하라\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 회사·에이전트별 goal.md 및 최신 의사결정을 분석하여 현재 우선순위가 가장 높은 핵심 과제 하나를 도출하시오\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal ",
+      "completedAt": "2026-07-22T10:42:34.203Z"
     }
   ]
 }
