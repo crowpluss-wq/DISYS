@@ -578,3 +578,5 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-22] dashboard_design_spec.md의 제거/강화 프레임을 반영한 한 페이지 분량 보험 비교 블로그 보고서를 작성하세요 → 산출물 sessions/2026-07-22T07-27/writer.md
 - [2026-07-22] reports/insurance_comparison_matrix_final.md와 tasks/writer_final_output.md를 참고해 제거(#808080)/강화(#FF4B5C) 대비 구조가 반영된 한 페이지 분량 보험 비교 블로그 보고서 작성 → 산출물 sessions/2026-07-22T07-42/writer.md
 - [2026-07-22] tasks/writer_final_output.md에 있는 블로그 원고와 인스타 후크 세트를 바탕으로 17:30까지 최종 요약본과 배포용 카피를 완성하세요 → 산출물 sessions/2026-07-22T08-57/writer.md
+- [2026-07-22] reports/new_insurance_models_analysis.md의 9사 비교 수치를 블로그용 '제거 vs 강화' 대비형 요약 보고서로 작성 (A4 한 장 분량). 인스타 카드뉴스에 활용할 후크 문구 5종 세트 포함. → 산출물 sessions/2026-07-22T09-44/writer.md
+- [2026-07-22] 블로그 하단에 '내 보험 다보아' 앱 전환을 유도하는 명확한 CTA 문구 작성. 블로그 방문자가 바로 가입 프로세스로 넘어갈 수 있게 흐름 구성. → 산출물 sessions/2026-07-22T09-44/writer.md
