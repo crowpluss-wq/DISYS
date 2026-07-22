@@ -1,0 +1,3 @@
+# 💻 코다리 — 최근 24시간 내 생성된 유사 트래킹 코드/랜딩페이지 항목이 있는지 먼저 조회한 후, 없다면 앱 전환 경로의 기술적 무결성을 검증하고 중복될 위험이 있는 코드를 제거하여 배포용 패키지를 정리해.
+
+<|tool_call>call:Bash{command:<|"|>cd /Users/crowpluss/ai disys/_company && ls -R src/app/*.ts libs/*/ index.html apps/* config.json | grep -n "analytics\|track" > tracks_grep.txt 2>/dev/null; python3 scripts/validate_tracking.py < tracks_grep.txt<|"|>,description:<|"|>Find all tracking code and run validation script"}<tool_call|><|tool_call>call:Bash{command:<|"|>cd /Users/crowpluss/ai disys/_company && grep -n "GA\|GTM|segment" config.json 2>/dev/null | head -50; ps ax | grep -E 'gjs|chrome' | awk '{print $1,$2}' | sort -u<|"|>,description:<|"|>Check GA/GTM config and active web processes"}<tool_call|>
