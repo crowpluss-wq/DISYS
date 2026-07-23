@@ -1,0 +1,9 @@
+{
+  "unifiedTrackingTag": "[INSERT TRACKING CODE HERE]",
+  "channels": {
+    "youtube": "shorts_messages",
+    "instagram": ["hook1", "hook2", "hook3"]
+  },
+  "commonCTA": "내보험다보아",
+  "status": "DEPLOYMENT_READY"
+}
