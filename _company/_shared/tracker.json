@@ -3426,11 +3426,13 @@
         "business"
       ],
       "createdAt": "2026-07-23T02:42:44.258Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-23T02-39",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T02-39/_report.md\n- 현빈: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n- Writer: 한 페이지 분량의 제거/강화 대비 구조가 반영된 보험 비교 보고서 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 (게임·",
+      "completedAt": "2026-07-23T02:47:02.879Z"
     },
     {
       "id": "20260723024244-vcf6",
@@ -3441,11 +3443,13 @@
         "business"
       ],
       "createdAt": "2026-07-23T02:42:44.263Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-23T02-39",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T02-39/_report.md\n- 현빈: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n- Writer: 한 페이지 분량의 제거/강화 대비 구조가 반영된 보험 비교 보고서 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 (게임·",
+      "completedAt": "2026-07-23T02:47:02.884Z"
     },
     {
       "id": "20260723024244-47b6",
@@ -3456,11 +3460,13 @@
         "business"
       ],
       "createdAt": "2026-07-23T02:42:44.266Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-23T02-39",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T02-39/_report.md\n- 현빈: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n- Writer: 한 페이지 분량의 제거/강화 대비 구조가 반영된 보험 비교 보고서 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 (게임·",
+      "completedAt": "2026-07-23T02:47:02.886Z"
     }
   ]
 }
