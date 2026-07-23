@@ -1,0 +1,3 @@
+# 🔍 researcher_granulated_comparison
+- **Goal**: Fill the qualitative gaps in the existing matrix by mapping each "strengthened" point to concrete alternatives (existing plans vs. new options) and adding a nuanced pro/con analysis for every major insurance provider compared to Hanwha's structure.
+- **Status**: Pending — The raw data is already audited; this step converts that data into the readable, comparative content needed for the final report.
