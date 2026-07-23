@@ -23,9 +23,9 @@
 (이 세션은 전 채널 통합 트래킹 코드를 포함하며, Designer와 developer의 최적화 결과 반영)
 
 <!-- GA4 SINGLE TRACKING CODE -->
-<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-XXXXXXX"></script>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GA4-[실제 계정 ID로 교체]"></script>
 <noscript>
-  <iframe src="https://www.googletagmanager.com/gtm.js?id=GTM-XXXXXXX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  <iframe src="https://www.googletagmanager.com/gtm.js?id=GA4-[실제 계정 ID로 교체]" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 
 <!-- UTM PARAMETERS FOR CAMPAIGN TRACKING -->
