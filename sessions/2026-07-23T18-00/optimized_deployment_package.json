@@ -1,0 +1,21 @@
+{
+  "version": "1.1",
+  "tracking_id": "G-1234567890",
+  "comparison_model": {
+    "remove_color": "#808080",
+    "enhance_color": "#FF4B5C"
+  },
+  "channels": [
+    {
+      "name": "youtube",
+      "asset": "short_sales_letter.mp4",
+      "cta": "내보험다보아"
+    },
+    {
+      "name": "instagram",
+      "feed_hooks": ["hook_A", "hook_B", "hook_C"],
+      "story_banner": true
+    }
+  ],
+  "validation_status": "passed"
+}
