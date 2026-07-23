@@ -169,3 +169,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-07-23] 최근 의사결정의 '제거(gray)'와 '강화(#FF4B5C)' 대비 구조를 반영하여, 국내 주요 보험사의 장단점을 비교하고 한 페이지 분량의 데이터 기반 보고서 초안을 작성하세요. → 산출물 sessions/2026-07-23T12-09/researcher.md
 - [2026-07-23] 최근의 모든 채널(인스타그램, 블로그 등)에서 검증된 제거/강화 대비 구조를 사용하고 있으며, 트래킹 코드와 시각적 컬러 대비가 배포 준비 완료 상태입니다. → 산출물 sessions/2026-07-23T12-54/researcher.md
 - [2026-07-23] 기존 수치 데이터를 가독성 높은 장단점 분석으로 변환하여 보고서 품질을 높이기 위해 '장단점 및 신규 보험 정보를 포함한 비교 매트릭스 세분' 작업을 수행하시오. → 산출물 sessions/2026-07-23T13-09/researcher.md
+- [2026-07-23] existing numeric data to qualitative pros/cons (gray vs #FF4B5C) and complete the matrix in reports/insurance_comparison_matrix_refined.md as per granularity task → 산출물 sessions/2026-07-23T13-24/researcher.md
