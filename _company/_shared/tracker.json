@@ -3467,6 +3467,81 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-23T02-39/_report.md\n- 현빈: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n- Writer: 한 페이지 분량의 제거/강화 대비 구조가 반영된 보험 비교 보고서 작성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: goal.md와 최근 의사결정을 종합하여 현재 우선순위 1위를 결정하고 구체적인 실행 계획 수립\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 📊 **수집 데이터**: PayPal 매출 분석 (게임·",
       "completedAt": "2026-07-23T02:47:02.886Z"
+    },
+    {
+      "id": "20260723044249-solc",
+      "title": "비교 매트릭스 기반 '한 문장 인사이트' 추출",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-23T04:42:49.923Z",
+      "status": "pending",
+      "sessionDir": "2026-07-23T04-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260723044249-hkqk",
+      "title": "쇼츠용 세일즈 레터 생산 (1인 기업 타겟의 간결성 유지)",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-23T04:42:49.927Z",
+      "status": "pending",
+      "sessionDir": "2026-07-23T04-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260723044249-0nwz",
+      "title": "유입 경로별 최적화된 유튜브 채널 배치 계획 수립",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-23T04:42:49.929Z",
+      "status": "pending",
+      "sessionDir": "2026-07-23T04-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260723044249-47hi",
+      "title": "5종 검증 후크 중 케이스별 베스트 매칭 배분",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-23T04:42:49.932Z",
+      "status": "pending",
+      "sessionDir": "2026-07-23T04-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260723044249-sf3s",
+      "title": "블로그 연동형 피드 및 스토리 문구 작성",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-07-23T04:42:49.935Z",
+      "status": "pending",
+      "sessionDir": "2026-07-23T04-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
