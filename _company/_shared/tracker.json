@@ -3773,6 +3773,74 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-23T10-24/_report.md\n- Researcher: 최근 확정된 제거/강화 대비 구조 데이터를 재검토하고, 비교 매트릭스의 모든 항목에 대해 사실관계 검증 및 수치 보완을 실시한 후 한 페이지 분\n- Designer: 제거(gray)와 강화(#FF4B5C) 대비 구조가 반영된 카드뉴스 9종 및 앱 전환 배너 시각 가이드를 최종 검토하고, 모바일에서의 가독성을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 확정된 제거/강화 대비 구조 데이터를 재검토하고, 비교 매트릭스의 모든 항목에 대해 사실관계 검증 및 수치 보완을 실시한 후 한 페이지 분량의 보험 비교 보고서 기초 자료를 완성하시오.\n> 🔧 **도구 ",
       "completedAt": "2026-07-23T10:32:28.972Z"
+    },
+    {
+      "id": "20260723131307-x3i9",
+      "title": "기존 비교 매트릭스에서 정량적 수치 데이터 추출 (sessions/2026-07-05T13-49/researcher.md 참조)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-23T13:13:07.265Z",
+      "status": "done",
+      "sessionDir": "2026-07-23T13-09",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T13-09/_report.md\n- Researcher: 기존 수치 데이터를 가독성 높은 장단점 분석으로 변환하여 보고서 품질을 높이기 위해 '장단점 및 신규 보험 정보를 포함한 비교 매트릭스 세분' \n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\nCEO의 지시와 최근 의사결정 로그(2026-07-23T12-54)를 종합한 결과, 현재 가장 가치 있는 단일 작업은 **'비교 매트릭스 세분 및 정성적 비교로 변환'**입니다.\n\n기존의 단순 수치 나열을 제거(gray)/강화(#FF4B5C) 대비 구조와 결합하여, 독자가 직관적으로 장단점을 파악할 수 있는 분",
+      "completedAt": "2026-07-23T13:13:07.284Z"
+    },
+    {
+      "id": "20260723131307-tety",
+      "title": "한화 대비 구조(제거: #808080 / 강화: #FF4B5C)에 기반한 항목별 장단점 재분류 및 가독성 향상 문구 추가",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-23T13:13:07.270Z",
+      "status": "done",
+      "sessionDir": "2026-07-23T13-09",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T13-09/_report.md\n- Researcher: 기존 수치 데이터를 가독성 높은 장단점 분석으로 변환하여 보고서 품질을 높이기 위해 '장단점 및 신규 보험 정보를 포함한 비교 매트릭스 세분' \n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\nCEO의 지시와 최근 의사결정 로그(2026-07-23T12-54)를 종합한 결과, 현재 가장 가치 있는 단일 작업은 **'비교 매트릭스 세분 및 정성적 비교로 변환'**입니다.\n\n기존의 단순 수치 나열을 제거(gray)/강화(#FF4B5C) 대비 구조와 결합하여, 독자가 직관적으로 장단점을 파악할 수 있는 분",
+      "completedAt": "2026-07-23T13:13:07.290Z"
+    },
+    {
+      "id": "20260723131307-xajw",
+      "title": "신규 보험 옵션의 특장점을 분석하여 비교표 내 세부 섹션으로 포함 (최근 의사결정 12-54 반영)",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-23T13:13:07.274Z",
+      "status": "done",
+      "sessionDir": "2026-07-23T13-09",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T13-09/_report.md\n- Researcher: 기존 수치 데이터를 가독성 높은 장단점 분석으로 변환하여 보고서 품질을 높이기 위해 '장단점 및 신규 보험 정보를 포함한 비교 매트릭스 세분' \n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\nCEO의 지시와 최근 의사결정 로그(2026-07-23T12-54)를 종합한 결과, 현재 가장 가치 있는 단일 작업은 **'비교 매트릭스 세분 및 정성적 비교로 변환'**입니다.\n\n기존의 단순 수치 나열을 제거(gray)/강화(#FF4B5C) 대비 구조와 결합하여, 독자가 직관적으로 장단점을 파악할 수 있는 분",
+      "completedAt": "2026-07-23T13:13:07.293Z"
+    },
+    {
+      "id": "20260723131307-k4ak",
+      "title": "완성된 데이터를 기반으로 한 최종 비교 매트릭스 업데이트",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-23T13:13:07.278Z",
+      "status": "done",
+      "sessionDir": "2026-07-23T13-09",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-23T13-09/_report.md\n- Researcher: 기존 수치 데이터를 가독성 높은 장단점 분석으로 변환하여 보고서 품질을 높이기 위해 '장단점 및 신규 보험 정보를 포함한 비교 매트릭스 세분' \n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\nCEO의 지시와 최근 의사결정 로그(2026-07-23T12-54)를 종합한 결과, 현재 가장 가치 있는 단일 작업은 **'비교 매트릭스 세분 및 정성적 비교로 변환'**입니다.\n\n기존의 단순 수치 나열을 제거(gray)/강화(#FF4B5C) 대비 구조와 결합하여, 독자가 직관적으로 장단점을 파악할 수 있는 분",
+      "completedAt": "2026-07-23T13:13:07.296Z"
     }
   ]
 }
