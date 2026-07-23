@@ -596,3 +596,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-23] 제거/강화 대비 구조를 유지하며 한 문장 인사이트 포함한 쇼츠 대본, 카드뉴스용 후크 세트 및 앱 전환을 위한 단일 CTA 포함된 멀티 채널 카피 패키지 제작 → 산출물 sessions/2026-07-23T03-09/writer.md
 - [2026-07-23] reports/new_insurance_models_analysis.md의 수치를 활용해 불필요한 특약을 제거하고 실질적 보호를 강화하는 방향으로 한 문장 인사이트, 유튜브 쇼츠 대본, 인스타그램 후크 세트 5종, 앱 전환용 단일 CTA를 포함한 카피 패키지 제작 → 산출물 sessions/2026-07-23T03-24/writer.md
 - [2026-07-23] 한 문장 인사이트, 유튜브 쇼츠 대본, 인스타그램 후크 세트 5종 및 단일 앱 전환 CTA를 포함한 멀티 채널 카피 패키지 제작 (reports/new_insurance_models_analysis.md 기반) → 산출물 sessions/2026-07-23T03-39/writer.md
+- [2026-07-23] reports/insurance_comparison_matrix_final.md의 제거/강화 구조 데이터를 활용해 한 페이지 분량의 블로그 보고서와 쇼츠용 세일즈 레터 문구를 작성하십시오. → 산출물 sessions/2026-07-23T03-54/writer.md
