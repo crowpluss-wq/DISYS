@@ -172,3 +172,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-07-23] existing numeric data to qualitative pros/cons (gray vs #FF4B5C) and complete the matrix in reports/insurance_comparison_matrix_refined.md as per granularity task → 산출물 sessions/2026-07-23T13-24/researcher.md
 - [2026-07-23] 국내 모든 보험사 제품군의 약점(제거)과 강점(강화) 데이터를 수집·분석하고 한화보험 기반의 최적 설계 비교 매트릭스를 완성하세요. → 산출물 sessions/2026-07-23T14-09/researcher.md
 - [2026-07-23] 최근의 제거/강화 대비 구조가 반영된 보험 매트릭스를 기반으로 한 비교 보고서를 완성하고, 한화 등 주요 경쟁사 대비 강점을 명확히 하십시오. → 산출물 sessions/2026-07-23T14-24/researcher.md
+- [2026-07-23] 대한민국 모든 보험사들의 보험 설계를 조사하고 각 상품의 장단점과 신규 보험을 포함한 데이터 요약본을 만들어. → 산출물 sessions/2026-07-23T15-39/researcher.md
