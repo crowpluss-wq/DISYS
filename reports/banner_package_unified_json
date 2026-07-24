@@ -1,0 +1,20 @@
+{
+  "campaign": "Insurance Comparison Banner Set",
+  "visual_system": {
+    "remove_color": "#808080",
+    "enhance_color": "#FF4B5C",
+    "layout": "2-split comparison grid"
+  },
+  "assets": [
+    {
+      "type": "instagram_stories",
+      "hook": 1,
+      "visual_guide": "Left side grayed out (#808080) with 'Remove' icon; Right side highlighted in #FF4B5C for custom coverage."
+    },
+    {
+      "type": "banner_ad",
+      "text": "Stop paying for what you don't use.",
+      "layout": "Horizontal comparison bar"
+    }
+  ]
+}
