@@ -1,0 +1,5 @@
+{
+  "assigned_work": "complete the insurance comparison matrix by filling remaining blanks with verified data, integrating the LTV improvement model, and applying the gray(#808080) vs red(#FF4B5C) contrast structure",
+  "agents": ["researcher"],
+  "notes": "Researcher will handle the matrix completion including LTV model integration; Designer is notified to enlarge key figures above 28pt in the card news layout as per previous decisions."
+}
