@@ -4011,6 +4011,51 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-24T08-54/_report.md\n- Designer: 최근 확정된 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 한 페이지 비교표로 시각화하고, 인스타그램용 카드뉴스 비주얼 소스를 생\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n최근 결정된 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 한 페이지 비교표로 시각화하고, 인스타그램용 카드뉴스 비주얼 소스를 생성하는 작업을 2단계로 분리하여 배분했습니다.\n\n1. **비교 보고서 시각화 (현재 세션)**: 제거/강화 대비 구조를 단일 레이아웃에 통합한 한 페이지 비교표(report",
       "completedAt": "2026-07-24T08:58:56.579Z"
+    },
+    {
+      "id": "20260724112016-n3li",
+      "title": "designer에게 이미 제작된 대비 레이아웃을 바탕으로 카드뉴스용 이미지들을 렌더링하라고 지시할 것 (이미지별 파일명 명확히 구분: remove/add 비교형)",
+      "description": "자동 등록 (Instagram 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "instagram"
+      ],
+      "createdAt": "2026-07-24T11:20:16.427Z",
+      "status": "pending",
+      "sessionDir": "2026-07-24T11-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260724112016-318m",
+      "title": "인스타그램, 블로그 등 모든 배포 채널의 랜딩페이지/랜딩영역에 GA4 트래킹 코드 G-1234567890를 포함시키도록 할 것 (기존 위치 확인 및 삽입 위치 결정 필요)",
+      "description": "자동 등록 (Instagram 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "instagram"
+      ],
+      "createdAt": "2026-07-24T11:20:16.438Z",
+      "status": "pending",
+      "sessionDir": "2026-07-24T11-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260724112016-4tb7",
+      "title": "최종 이미지 패키지와 트래킹 코드가 모두 준비되면 인스타그램 배포용 콘텐츠 팩을 완성함",
+      "description": "자동 등록 (Instagram 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "instagram"
+      ],
+      "createdAt": "2026-07-24T11:20:16.441Z",
+      "status": "pending",
+      "sessionDir": "2026-07-24T11-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
