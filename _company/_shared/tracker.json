@@ -3926,6 +3926,40 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-23T13-54/_report.md\n- Writer: 최근 생성된 'marketing_deployment_package.md'의 블로그 비교 보고서와 인스타그램 후크 세트가 제거/강화 대비 구조를 \n- 현빈: 배포용 패키지의 사업적 타당성을 재검증하고, 단일 GA4 트래킹 코드와 '내보험다보아' CTA가 포함되었는지 확인한 뒤 배포 승인을 내시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### ✍️ Writer _(Copywriter)_\n> 📋 **지시**: 최근 생성된 'marketing_deployment_package.md'의 블로그 비교 보고서와 인스타그램 후크 세트가 제거/강화 대비 구조를 정확히 반영하며 가독성이 좋은지 최종 검수하고 필요시 보완하시오.\n> 🔧 **도구 실행**: _",
       "completedAt": "2026-07-23T14:02:50.012Z"
+    },
+    {
+      "id": "20260724031414-0q4a",
+      "title": "Researcher: 조사 데이터 기반의 제거/강화 포인트 정리 완료 → Designer에게 작업 넘기기",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-24T03:14:14.754Z",
+      "status": "done",
+      "sessionDir": "2026-07-24T03-09",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-24T03-09/_report.md\n- 현빈: 회사 목표, 각 에이전트의 개인 goal.md, 최근 의사결정 내역과 메모리를 통합 분석하여 오늘 수행할 최고 가치 작업 1개를 결정하고 실행 \n- 영숙: 결정된 작업을 기반으로 당일 데일리 브리핑을 생성하고 후속 조치를 정리하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 회사 목표, 각 에이전트의 개인 goal.md, 최근 의사결정 내역과 메모리를 통합 분석하여 오늘 수행할 최고 가치 작업 1개를 결정하고 실행 계획을 수립하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만",
+      "completedAt": "2026-07-24T03:16:11.517Z"
+    },
+    {
+      "id": "20260724031414-i4cy",
+      "title": "Designer: 시각 디자인 브리프 및 카드뉴스용 비교표 가이드 마감 → Instagram 배포 활용",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-07-24T03:14:14.758Z",
+      "status": "done",
+      "sessionDir": "2026-07-24T03-09",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-24T03-09/_report.md\n- 현빈: 회사 목표, 각 에이전트의 개인 goal.md, 최근 의사결정 내역과 메모리를 통합 분석하여 오늘 수행할 최고 가치 작업 1개를 결정하고 실행 \n- 영숙: 결정된 작업을 기반으로 당일 데일리 브리핑을 생성하고 후속 조치를 정리하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 회사 목표, 각 에이전트의 개인 goal.md, 최근 의사결정 내역과 메모리를 통합 분석하여 오늘 수행할 최고 가치 작업 1개를 결정하고 실행 계획을 수립하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만",
+      "completedAt": "2026-07-24T03:16:11.523Z"
     }
   ]
 }
