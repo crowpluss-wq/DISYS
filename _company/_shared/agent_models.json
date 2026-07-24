@@ -1,12 +1,12 @@
 {
   "ceo": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "secretary": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "youtube": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "researcher": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "business": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "writer": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "editor": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "designer": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "developer": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "instagram": "gemma-4-12b-coder-fable5-composer2.5-v1"
+  "secretary": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "youtube": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "researcher": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "business": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "writer": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "editor": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "designer": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "developer": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "instagram": "gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2"
 }
