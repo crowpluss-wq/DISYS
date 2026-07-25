@@ -1,0 +1,17 @@
+{
+  "campaign": "insurance_comparison_cardnews",
+  "tracking_code": "G-1234567890",
+  "assets": {
+    "layout": "split_two_columns",
+    "color_scheme": {
+      "remove": "#808080",
+      "strengthen": "#FF4B5C"
+    },
+    "design_guide": "reference reports/cardnews_layout_and_comparison_guide.md"
+  },
+  "marketing_hooks": [
+    {"channel": "instagram", "type": "morning"},
+    {"channel": "instagram", "type": "afternoon"}
+  ],
+  "status": "ready_to_deploy"
+}
