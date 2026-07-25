@@ -210,3 +210,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-25] 빌드 패키지 내 KeyError('sections') 수정 및 검증 루프 통과 확인 → 산출물 sessions/2026-07-25T09-28/developer.md
 - [2026-07-25] build_unified_landing_package.py 내 KeyError('sections') 이슈가 해결되었는지 lint_test.py 및 빌드 검증 루프를 통해 최종 확인하고 결과를 보고하세요. → 산출물 sessions/2026-07-25T09-43/developer.md
 - [2026-07-25] 제거(#808080)/강화(#FF4B5C) 대비 구조를 시각적으로 극대화한 세로형 2분할 카드뉴스 이미지 패키지를 생성하고, 주요 수치 확대 및 트래킹 코드 G-1234567890을 포함하여 배포용 패키지를 완성하십시오. → 산출물 sessions/2026-07-25T10-58/developer.md
+- [2026-07-25] 모든 배포용 카드뉴스 이미지와 랜딩페이지 등 유입 경로 패키지에 트래킹 코드 G-1234567890을 통합하고, 최근 수정한 KeyError 이슈가 반영된 build_unified_landing_package.py를 통해 최종 검증 루프 통과 확인 → 산출물 sessions/2026-07-25T11-28/developer.md
