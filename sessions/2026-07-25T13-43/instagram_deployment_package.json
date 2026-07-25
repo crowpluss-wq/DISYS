@@ -1,0 +1,12 @@
+{
+  "campaign": "insurance_comparison_2026",
+  "tracking_code": "G-1234567890",
+  "assets": [
+    {"id": "cardnews_1", "title": "제거 대비", "color_scheme": {"remove": "#808080", "strengthen": "#FF4B5C"}, "layout": "vertical_2panel"},
+    {"id": "cardnews_2", "title": "강화 패키지"}
+  ],
+  "hooks": [
+    {"source": "removed_vs_enhanced", "variant_1": "불필요한 특약은 제거(808080), 핵심 보장은 강화(FF4B5C)"},
+    {"source": "sales_hook_set_v3", "variant": "인스타그램 채널 대응형 후크 세트"}
+  ]
+}
