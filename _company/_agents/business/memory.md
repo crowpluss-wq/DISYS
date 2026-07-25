@@ -304,3 +304,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-25] 최근 의사결정 로그와 goal.md을 검토하여 제거(#808080) vs 강화(#FF4B5C) 대비 구조가 반영된 한 페이지 분량의 진단·수술비 강화 중심 보험 비교 보고서(reports/insurance_comparison_report.md)를 작성하십시오. → 산출물 sessions/2026-07-25T17-13/business.md
 - [2026-07-25] 보험료 효율 최적화 모델을 제거(#808080) vs 강화(#FF4B5C) 대비 구조로 확정하고, 진단/수술비 중심의 한 페이지 분량 보험 비교 보고서를 작성하십시오. → 산출물 sessions/2026-07-25T17-28/business.md
 - [2026-07-25] 최근의 제거/강화 대비 구조와 LTV 기반 분석을 포함한 진단·수술비 강화 중심의 한 페이지 분량 보험 비교 보고서(reports/insurance_comparison_report.md)를 완성하십시오. → 산출물 sessions/2026-07-25T17-43/business.md
+- [2026-07-25] 최근 의사결정 로그와 LTV 기반 분석을 바탕으로 제거(#808080) vs 강화(#FF4B5C) 대비 구조가 반영된 배포용 보험 비교 보고서(reports/insurance_comparison_report.md)를 완성하십시오. → 산출물 sessions/2026-07-25T17-58/business.md
