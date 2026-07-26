@@ -4548,11 +4548,13 @@
         "designer"
       ],
       "createdAt": "2026-07-26T18:18:47.080Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-26T18-14",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.475Z"
     },
     {
       "id": "20260726181847-r9do",
@@ -4563,11 +4565,13 @@
         "designer"
       ],
       "createdAt": "2026-07-26T18:18:47.094Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-26T18-14",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.483Z"
     },
     {
       "id": "20260726181847-ptu2",
@@ -4578,11 +4582,13 @@
         "designer"
       ],
       "createdAt": "2026-07-26T18:18:47.105Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-26T18-14",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.490Z"
     },
     {
       "id": "20260726181847-5d3v",
@@ -4593,11 +4599,13 @@
         "designer"
       ],
       "createdAt": "2026-07-26T18:18:47.116Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-26T18-14",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.493Z"
     },
     {
       "id": "20260726181847-q2nc",
@@ -4608,11 +4616,98 @@
         "designer"
       ],
       "createdAt": "2026-07-26T18:18:47.120Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-07-26T18-14",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.497Z"
+    },
+    {
+      "id": "20260726182239-bv9b",
+      "title": "시각적 대비 강조 2분할 카드뉴스 형태 배너 1 (정보 중심)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-26T18:22:39.771Z",
+      "status": "done",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.500Z"
+    },
+    {
+      "id": "20260726182239-g4vg",
+      "title": "제거/강화 대비 매트릭스 시각 레이아웃 베이스 배너 2 (중간자 대상)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-26T18:22:39.783Z",
+      "status": "done",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.503Z"
+    },
+    {
+      "id": "20260726182239-kemp",
+      "title": "트래킹 태그가 포함된 단일 CTA형 전환 배너 3 (관계성 강화)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-26T18:22:39.791Z",
+      "status": "done",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.507Z"
+    },
+    {
+      "id": "20260726182239-d9hz",
+      "title": "시각적 대비 강조 2분할 카드뉴스 형태 베너 4 (정보 중심)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-26T18:22:39.796Z",
+      "status": "done",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.510Z"
+    },
+    {
+      "id": "20260726182239-qo40",
+      "title": "제거/강화 대비 매트릭스 시각 레이아웃 베이스 배너 5 (중간자 대상)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-26T18:22:39.802Z",
+      "status": "done",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
+      "completedAt": "2026-07-26T18:25:15.514Z"
     }
   ]
 }
