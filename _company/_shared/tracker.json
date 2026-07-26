@@ -4538,6 +4538,81 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-26T16-29/_report.md\n- Researcher: 의사결정 로그와 CEO 개인 메모리를 전수 조사하여 아직 처리되지 않은 가장 중요한 단일 작업(예: 남은 배포 검증 또는 미완료된 후속 스토리 \n\nCEO 종합 요점: 🔍 Researcher: 작업 시작합니다.\n\n의사결정 로그와 모든 에이전트의 목표를 검토한 결과, 현재 가장 시급하고 가치 있는 단일 작업은 **\"대본 작성 및 콘텐츠 최적화(Writer)\"**입니다. 이미 Designer가 매트릭스를 기반으로 한 시각적 대비 구조(#808080 vs #FF4B5c)와 카드뉴스 소스 패키지를 완성했고, 코다리가 트래킹 코",
       "completedAt": "2026-07-26T16:32:45.473Z"
+    },
+    {
+      "id": "20260726181847-supz",
+      "title": "시각적 대비 강조 2분할 카드뉴스 형태 배너 1 (정보 중심)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-26T18:18:47.080Z",
+      "status": "pending",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260726181847-r9do",
+      "title": "제거/강화对比 매트릭스 시각 레이아웃 베이스 배너 2 (중간자 대상)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-26T18:18:47.094Z",
+      "status": "pending",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260726181847-ptu2",
+      "title": "트래킹 태그가 포함된 단일 CTA형 전환 배너 3 (관계성 강화)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-26T18:18:47.105Z",
+      "status": "pending",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260726181847-5d3v",
+      "title": "제거/강화 대조 레이아웃이 반영된 고대비 베이스 배너 4",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-26T18:18:47.116Z",
+      "status": "pending",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260726181847-q2nc",
+      "title": "수치 가독성을 위해 주요 항목 확대 처리한 비교형 배너 5",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-26T18:18:47.120Z",
+      "status": "pending",
+      "sessionDir": "2026-07-26T18-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
