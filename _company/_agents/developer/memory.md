@@ -217,3 +217,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-25] 카드뉴스 패키지에 통합된 트래킹 코드 G-1234567890의 연동 상태를 build_unified_landing_package.py로 검증하고 배포 준비 완료 확인 → 산출물 sessions/2026-07-25T16-58/developer.md
 - [2026-07-25] 카드뉴스 패키지에 트래킹 코드 G-1234567890을 통합하고 build_unified_landing_package.py를 통한 검증 루프 통과 후 배포용 유입 경로 패키지로 병합하십시오. → 산출물 sessions/2026-07-25T18-28/developer.md
 - [2026-07-26] 모든 배포 패키지에 트래킹 코드 G-1234567890을 포함시키고 build_unified_landing_package.py를 통한 기술 검증 루프을 통과한 후 최종 병합하십시오. → 산출물 sessions/2026-07-26T00-29/developer.md
+- [2026-07-26] KeyError: 'sections' 오류를 수정한 build_unified_landing_package.py의 기술 검증 루프를 최종 통과시키고 모든 배포 패키지를 병합하십시오. → 산출물 sessions/2026-07-26T00-44/developer.md
