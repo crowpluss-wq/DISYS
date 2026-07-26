@@ -1,8 +1,11 @@
-# researcher_matrix_completion
+# researcher_matrix_completion — Fill matrix blanks with real data
 
-## 목표
-모든 보험사의 제로(회색)/강화(빨간색) 대비 구조를 유지하면서, 수집된 실제 데이터를 기반으로 한 페이지 분량의 정확한 장단점 비교 보고서 기초 데이터 완성.
+**Goal:** Populate each insurance company's special clauses and coverage scope in the comparison matrix, completing a precise contrast between removes (#808080) and enhances (#FF4B5C).
 
-## 세부 작업
-- **Researcher**: 각 보험사별 특약 및 보장 범위 전수 조사 후 매트릭스 빈칸 채우기 (제거(#808080) vs 강화(#FF4B5C))
-- **Writer**: 매트릭스에서 핵심 비교 포인트 추출하여 한 페이지 분량의 요약 보고서 기초 데이터 구성
+**Action Plan:**
+1. Scan `reports/insurance_comparison_matrix_final.md` to identify remaining empty cells in the "Special Clauses" and "Coverage Scope" columns for each insurer.
+2. For each blank cell, cross-reference collected data (from previous research) against Hanwha’s terms — explicitly flag removals vs enhancements using the agreed color scheme logic (remove = #808080, enhance = #FF4B5C).
+3. Ensure every filled cell has a verifiable fact backing and clear comparative language.
+4. Validate that all mandatory comparison fields are populated before handing off to Business for LTV analysis.
+
+**Deliverable:** An updated `reports/insurance_comparison_matrix_final.md` with no blank cells in the core matrix, ready for report synthesis.
