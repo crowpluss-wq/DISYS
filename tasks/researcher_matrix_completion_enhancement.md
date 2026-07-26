@@ -1,14 +1,10 @@
-## [2026-07-31] 보험 매트릭스 완성 및 비교 보고서 기초 데이터 세분
+# Researcher Matrix Completion Enhancement
 
-### 🎯 목표: 빈칸 채우기 및 사실 검증을 통한 비교 대조표 완결성 확보
+Goal: Populate every blank in `reports/insurance_comparison_matrix_final.md` with verifiable actual rider and coverage range data, completing the "Eliminate (#808080) vs Enhance (#FF4B5C)" contrast.
 
-이 작업은 `reports/insurance_comparison_matrix_refined.md`를 기반으로 하며, 주요 경쟁사 대비 우리 모델의 장단점을 한눈에 파악할 수 있도록 구조화하는 데 중점을 둡니다:
-- **제거(gray)**: 불필요하거나 복잡한 항목 회색 처리로 제거
-- **강화(#FF4B5C)**: 진단비 통합 통한 비용 개선 등 핵심 강점 강조
+Approach:
+1. Use existing gathered insurance company data to fill missing cells with specific rider names, terms, and coverage scopes (e.g., 진단비, 수술비 for 'Enhance').
+2. Maintain the contrastive structure as defined in recent decisions — gray (#808080) for redundant/lesser elements and red (#FF4B5C) for core protection improvements.
+3. Coordinate with Business agent to synthesize these data points into a clear comparison summary including LTV improvement angles.
 
-### 📋 주요 세분 과업:
-1.  **[researcher_matrix_completion]**: 매트릭스 내 누락된 보험사별 수치를 실제 조사 데이터로 채우고, 한화 대비 구조를 활용해 정성적 비교 분석으로 변환 (수치 대신 제거/강화 프레임워크 사용)
-2.  **[researcher_matrix_cleanup]**: 완성된 매트릭스를 `reports/insurance_comparison_matrix_final.md`로 정리
-
-### 📝 결과물:
-- 완결성 있는 비교 보고서용 데이터셋 및 최종 대조표 (제거/강화 컬러 코딩 적용)
+Progress: In progress - Filling matrix cells from actual insurer riders and coverage data; refining contrastive structure for visual clarity.
