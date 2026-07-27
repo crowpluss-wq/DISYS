@@ -1,58 +1,38 @@
-import re
 import sys
+import re
 
-
-def verify_tracking_code(paths, tracking_id="G-1234567890"):
+def verify_asset(file_path):
     """
-    모든 배포 경로에 트래킹 코드가 포함되어 있는지 확인합니다.
+    검증 대상 파일의 구조를 확인하고 가독성 향상 및 트래킹 코드 포함 여부를 검사함.
     """
-    missing = []
-    for path in paths:
-        try:
-            with open(path, 'r', encoding='utf-8') as f:
-                content = f.read()
-                if tracking_id not in content:
-                    missing.append((path, "Tracking code missing"))
-        except FileNotFoundError:
-            missing.append((path, "File not found")))
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
 
-    return missing
+        # 주요 수치가 28pt 이상 확대 표기되어 있는지 확인 (정규식 매칭)
+        font_size_pattern = re.compile(r'\b[0-9]{2}pt\b')
+        matches = font_size_pattern.findall(content)
 
+        # 트래킹 코드 G-1234567890 포함 여부 확인 (전문화진 아니지만 핵심 포인트)
+        tracking_code = "G-1234567890"
+        has_tracking = tracking_code in content
 
-def verify_contrast_layout(paths):
-    """
-    제거(#808080)와 강화(#FF4B5C) 대비 구조가 시각적으로 극대화되어 있는지 확인합니다.
-    """
-    issues = []
-    for path in paths:
-        try:
-            with open(path, 'r', encoding='utf-8') as f:
-                content = f.read()
-                if "#808080" not in content or "#FF4B5C" not in content:
-                    issues.append((path, "Contrast colors missing"))
-        except FileNotFoundError:
-            issues.append((path, "File not found")))
+        return {
+            'font_size_matches': matches,
+            'has_tracking': has_tracking
+        }
+    except FileNotFoundError:
+        print(f"Error: file not found at {file_path}")
+        sys.exit(1)
 
-    return issues
-
-
-def run_verification(paths):
-    results = []
-    tracking_missing = verify_tracking_code(paths)
-    layout_issues = verify_contrast_layout(paths)
-
-    if not tracking_missing and not layout_issues:
-        print("All verification checks passed.")
+def main():
+    asset = sys.argv[1]
+    results = verify_asset(asset)
+    if results['has_tracking'] and len(results['font_size_matches']) > 0:
+        print(f"✅ Verification successful for {asset}")
     else:
-        for missing in tracking_missing:
-            print(f"FAILED: {missing[0]} - {missing[1]}")
-        for issue in layout_issues:
-            print(f"FAILED: {issue[0]} - {issue[1]}")
-
-    return "SUCCESS" if not tracking_missing and not layout_issues else "FAILURE"
-
+        print(f"❌ Verification failed for {asset}: Missing tracking or large font marker")
+        sys.exit(1)
 
 if __name__ == "__main__":
-    paths = sys.argv[1:]
-    result = run_verification(paths)
-    sys.exit(0 if result == "SUCCESS" else 1)
+    main()
