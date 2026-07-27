@@ -4708,6 +4708,51 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-26T18-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제\n- 코다리: 모든 배포 패키지에 공통 트래킹 코드 [GOOGLE_ANALYTICS_GA4_ID]가 정확하게 삽입되었는지 검증하고, 하나로 통합된 랜딩페이지(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md 및 banner_package_unified.md를 검토하여 제거(#808080)/강화 대비 구조와 트래킹 코드 가시성이 포함된 6종의 앱 전환 배너 ",
       "completedAt": "2026-07-26T18:25:15.514Z"
+    },
+    {
+      "id": "20260727115017-balv",
+      "title": "모든 비교 테이블에 #808080 / #FF4B5C 대비 구조 적용 여부 확인<br>",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-27T11:50:17.706Z",
+      "status": "pending",
+      "sessionDir": "2026-07-27T11-44",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260727115017-lfep",
+      "title": "주요 수치 및 강조 포인트 28pt 이상 확대 표기 확인<br>",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-27T11:50:17.714Z",
+      "status": "pending",
+      "sessionDir": "2026-07-27T11-44",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260727115017-t8k0",
+      "title": "배포용 콘텐츠 하단 또는 메타데이터 영역 G-1234567890 삽입 완료</th>",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-27T11:50:17.723Z",
+      "status": "pending",
+      "sessionDir": "2026-07-27T11-44",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
