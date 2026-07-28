@@ -258,3 +258,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-07-28] reports/insurance_comparison_matrix_final.md의 누락된 특약·보장 범위 수치를 보강하고, 한화 대비 제거(#808080)/강화(#FF4B5C) 대조 구조 및 LTV 경쟁 우위를 명확히 반영하여 매트릭스를 완성하십시오. → 산출물 sessions/2026-07-28T03-59/researcher.md
 - [2026-07-28] reports/insurance_comparison_matrix_final.md을 확인하여 누락된 특약·보장 범위를 추가하고, 한화 대비 제거(#808080)/강화(#FF4B5C) 구조와 LTV 경쟁 우위가 명확히 드러나도록 매트릭스 데이터를 보완하십시오. → 산출물 sessions/2026-07-28T04-14/researcher.md
 - [2026-07-28] 모든 보험사의 설계안과 장단점을 조사하고, 제거(#808080)/강화(#FF4B5C) 대비 구조와 28pt 확대 정책이 반영된 최종 비교 보고서를 작성하십시오. → 산출물 sessions/2026-07-28T05-14/researcher.md
+- [2026-07-28] 국내 모든 보험사들의 상품 설계와 신규 보험 포함한 각 보험별 특징, 장/단점 자료 수집 및 요약 → 산출물 sessions/2026-07-28T07-59/researcher.md
