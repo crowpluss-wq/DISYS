@@ -1,0 +1,15 @@
+{
+  "status": "pending",
+  "last_check": null,
+  "verifier": "koderi-agent",
+  "config": {
+    "tracking_id": "G-1234567890",
+    "visuals": {
+      "remove": "#808080",
+      "enhance": "#FF4B5C",
+      "font_size": 28
+    },
+    "channels": ["youtube", "instagram"],
+    "verification_script": "verify_deployment_assets.py"
+  }
+}
