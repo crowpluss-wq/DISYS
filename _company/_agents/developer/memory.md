@@ -267,3 +267,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-28] build_unified_landing_package.py의 sections 누락 에러 수정 및 verify_deployment_assets.py 경로 재설정 후 검증 루프 정상화 → 산출물 sessions/2026-07-28T13-14/developer.md
 - [2026-07-28] reports/insurance_comparison_matrix_final.md 내의 빈칸을 writer가 완성한 최신 데이터로 정밀하게 업데이트하고, 전체 배포 패키지에 트래킹 코드 G-1234567890을 중복 없이 삽입하세요. → 산출물 sessions/2026-07-28T15-14/developer.md
 - [2026-07-28] verify_deployment_assets.py 자동화 검증 루프를 통해 모든 채널용 트래킹 코드(G-1234567890) 중복 제거 및 기술적 완성도 최종 확인 → 산출물 sessions/2026-07-28T15-29/developer.md
+- [2026-07-28] 최근 세션에서 발생한 파일 경로 오류를 수정하고, verify_deployment_assets.py를 통해 전 채널용 트래킹 코드(G-1234567890)가 중복 없이 삽입되었는지 검증 루프을 돌려 기술적 완성도를 확보하세요. → 산출물 sessions/2026-07-28T15-59/developer.md
