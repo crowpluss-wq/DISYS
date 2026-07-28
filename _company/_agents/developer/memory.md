@@ -247,3 +247,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-27] verify_deployment_assets.py를 활용하여 트래킹 코드 G-1234567890과 모든 시각 정책의 전수 자동 검증 루프를 실행하십시오. → 산출물 sessions/2026-07-27T23-14/developer.md
 - [2026-07-28] verify_deployment_assets.py를 사용하여 트래킹 코드 G-123456890과 모든 시각 정책이 적용되었는지 전수 자동 검증 루프를 실행하고 결과를 보고하십시오. → 산출물 sessions/2026-07-27T23-59/developer.md
 - [2026-07-28] verify_deployment_assets.py를 사용하여 제거/강화 대비 구조, 28pt 확대 정책 및 트래킹 코드 G-1234567890이 모든 배포 채널에 일관되게 반영되었는지 전수 자동 검증 루프를 실행하고 결과를 보고하십시오. → 산출물 sessions/2026-07-28T00-29/developer.md
+- [2026-07-28] verify_deployment_assets.py의 인자 처리 오류(IndexError)를 수정하고 검증 루프가 모든 배포 자산을 정상적으로 순회하도록 고치세요. → 산출물 sessions/2026-07-28T00-44/developer.md
