@@ -26,7 +26,7 @@ def verify_asset(file_path):
         sys.exit(1)
 
 def main():
-    asset = sys.argv[1]
+    asset = sys.argv[1] if len(sys.argv) > 1 else "all"
     results = verify_asset(asset)
     if results['has_tracking'] and len(results['font_size_matches']) > 0:
         print(f"✅ Verification successful for {asset}")
