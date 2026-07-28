@@ -1,14 +1,8 @@
 {
-  "tracking_code": "G-1234567890",
-  "assets": {
-    "youtube": [
-      {"channel": "morning", "content": "latest comparison video"},
-      {"channel": "afternoon", "content": "extended analysis"}
-    ],
-    "instagram": [
-      {"time": "morning", "hook_set": "remove-vs-enhance 대비 구조 홍보 세트"},
-      {"time": "afternoon", "hook_set": "맞춤형 보장 강조 프로모션 후크}"}
-    ]
-  },
-  "status": "ready_to_deploy"
+  "project": "Insurance Comparison",
+  "trackingId": "G-1234567890",
+  "assets": [
+    {"type": "cardnews", "layout": "vertical-split", "color_scheme": ["#808080", "#FF4B5C"]},
+    {"type": "banner", "layout": "vertical-split", "color_scheme": ["#808080", "#FF4B5C"]}
+  ]
 }
