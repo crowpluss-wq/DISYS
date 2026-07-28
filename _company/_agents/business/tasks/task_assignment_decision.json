@@ -1,0 +1,18 @@
+{
+  "primary_goal": "LTV-centric insurance comparison matrix and deployment package audit (Remove vs Enhance)",
+  "subdivided_tasks": [
+    {
+      "agent": "코다리",
+      "action": "Update reports/business_feasibility_analysis.md with LTV improvement metrics, merge into the comparison matrix, run verify_deployment_assets.py to inject tracking code G-1234567890 across all deployment channels."
+    },
+    {
+      "agent": "레오",
+      "action": "Finalize the contrast structure for blog/YouTube with high readability; complete channel-specific delivery packages based on the approved comparison report."
+    },
+    {
+      "agent": "디자이너",
+      "action": "Enforce 28pt highlight policy, unify tracking code G-1234567890 across all visual assets (banners/cards), and finalize Instagram contrast layout."
+    }
+  ],
+  "verification_gate": "All deployment packages must pass the verification loop for unique tracker insertion before final approval."
+}
