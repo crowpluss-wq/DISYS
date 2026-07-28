@@ -262,3 +262,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-28] reports/insurance_comparison_matrix_final.md 내의 빈 항목을 writer가 완성한 요약 보고서 수치로 채워 비교 매트릭스를 완성하고, 전체 배포 패키지에 트래킹 코드 G-1234567890이 중복 없이 일관되게 삽입되었는지 검증 루프(verify_deployment_assets.py)를 통해 확인하세요. → 산출물 sessions/2026-07-28T09-59/developer.md
 - [2026-07-28] reports/insurance_comparison_matrix_final.md의 비어있는 항목을 writer가 완성한 요약 보고서 수치로 채우고, 전체 배포 패키지에 트래킹 코드 G-1234567890이 중복 없이 일관되게 삽입되었는지 verify_deployment_assets.py 루프로 검증하십시오. → 산출물 sessions/2026-07-28T10-14/developer.md
 - [2026-07-28] verify_deployment_assets.py 루프를 돌려 모든 채널에 G-1234567890 코드가 중복 없이 삽입되었는지 검증하고, 보고서 내 빈 항목을 writer의 수치로 채워 비교 매트릭스를 완성하십시오. → 산출물 sessions/2026-07-28T11-14/developer.md
+- [2026-07-28] reports/insurance_comparison_matrix_final.md 내의 누락된 수치를 writer가 완성한 최신 요약 보고서 데이터로 정밀하게 업데이트하고, 전체 배포 패키지에 트래킹 코드 G-1234567890을 중복 없이 삽입하는 검증 루프(verify_deployment_assets.py)를 통해 기술적 완성을 마무리하세요. → 산출물 sessions/2026-07-28T11-59/developer.md
