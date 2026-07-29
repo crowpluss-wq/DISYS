@@ -4963,6 +4963,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-29T01-14/_report.md\n- Researcher: 최근 결정된 '제거(#808080)' vs '강화(#FF4B5C)' 대비 구조와 트래킹 코드 G-1234567890를 통합한 최종 보험 비교 보\n- Designer: reports/insurance_comparison_report.md의 대비 구조와 가독성 개선을 반영하여 카드뉴스 이미지 세트(2종)와 채널별\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 결정된 '제거(#808080)' vs '강화(#FF4B5C)' 대비 구조와 트래킹 코드 G-1234567890를 통합한 최종 보험 비교 보고서 및 인스타그램 배포 세트를 완성하십시오.\n> 🔧 **도구 실",
       "completedAt": "2026-07-29T01:25:58.569Z"
+    },
+    {
+      "id": "20260729033535-psxc",
+      "title": "인스타그램 오전용 배너",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-29T03:35:35.743Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T03-29",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T03-29/_report.md\n- 코다리: designer가 확정한 시각 자산 제작 가이드를 바탕으로 실제 배포용 자산을 생성하고, 모든 파일에 트래킹 코드 G-1234567890이 중복\n\nCEO 종합 요점: 💻 코다리: 작업 시작합니다.\n\n이미 검증 루프 오류(중복 트래킹 코드, 누락된 인자)를 모두 해결했으므로 제안드린 `verify_deployment_assets`로 전수 검사 한 번 돌려서 배포용 패키지 완성하겠습니다. 시각 자산 가이드대로 파일들 생성하고 모든 경로 정상 확인한 뒤 마지막에 트래킹 코드 G-1234567890 딱 한 곳만 삽입되게 구성",
+      "completedAt": "2026-07-29T03:35:35.769Z"
+    },
+    {
+      "id": "20260729033535-5ob9",
+      "title": "인스타그램 오후용 배너",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-29T03:35:35.753Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T03-29",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T03-29/_report.md\n- 코다리: designer가 확정한 시각 자산 제작 가이드를 바탕으로 실제 배포용 자산을 생성하고, 모든 파일에 트래킹 코드 G-1234567890이 중복\n\nCEO 종합 요점: 💻 코다리: 작업 시작합니다.\n\n이미 검증 루프 오류(중복 트래킹 코드, 누락된 인자)를 모두 해결했으므로 제안드린 `verify_deployment_assets`로 전수 검사 한 번 돌려서 배포용 패키지 완성하겠습니다. 시각 자산 가이드대로 파일들 생성하고 모든 경로 정상 확인한 뒤 마지막에 트래킹 코드 G-1234567890 딱 한 곳만 삽입되게 구성",
+      "completedAt": "2026-07-29T03:35:35.782Z"
+    },
+    {
+      "id": "20260729033535-bpzi",
+      "title": "유튜브 홍보 영상 배포 파일",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-07-29T03:35:35.761Z",
+      "status": "done",
+      "sessionDir": "2026-07-29T03-29",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-29T03-29/_report.md\n- 코다리: designer가 확정한 시각 자산 제작 가이드를 바탕으로 실제 배포용 자산을 생성하고, 모든 파일에 트래킹 코드 G-1234567890이 중복\n\nCEO 종합 요점: 💻 코다리: 작업 시작합니다.\n\n이미 검증 루프 오류(중복 트래킹 코드, 누락된 인자)를 모두 해결했으므로 제안드린 `verify_deployment_assets`로 전수 검사 한 번 돌려서 배포용 패키지 완성하겠습니다. 시각 자산 가이드대로 파일들 생성하고 모든 경로 정상 확인한 뒤 마지막에 트래킹 코드 G-1234567890 딱 한 곳만 삽입되게 구성",
+      "completedAt": "2026-07-29T03:35:35.796Z"
     }
   ]
 }
