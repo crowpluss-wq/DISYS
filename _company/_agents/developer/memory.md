@@ -276,3 +276,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-28] 제작된 모든 채널 자산에 대해 verify_deployment_assets.py 검증 루프을 실행하여 트래킹 코드 G-1234567890이 중복 없이 단 한 번만 삽입되었는지 최종 확인하십시오. → 산출물 sessions/2026-07-28T22-29/developer.md
 - [2026-07-29] 생산된 모든 자산을 verify_deployment_assets.py로 검증하여 트래킹 코드 G-1234567890 중복을 제거하고 최종 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T00-14/developer.md
 - [2026-07-29] Designer가 확정한 시각 자산 제작 가이드를 바탕으로 실제 배포용 자산을 생성하고, 모든 파일에 트래킹 코드 G-1234567890이 중복 없이 정확히 한 번만 삽입되었는지 verify_deployment_assets.py로 검증 루프을 돌려 최종 배포 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T01-29/developer.md
+- [2026-07-29] verify_deployment_assets.py에서 누락된 deployment_bundle 인자를 추가하여 검증 루프 오류를 해결하고 트래킹 코드가 중복 없이 삽입되었는지 재검증하십시오. → 산출물 sessions/2026-07-29T01-44/developer.md
