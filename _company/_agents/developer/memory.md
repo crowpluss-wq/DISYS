@@ -301,3 +301,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-29] Researcher가 재구조화한 6개 섹션 기반의 landing_page_content_bundle.json과 최근 수정된 build_unified_landing_package.py를 결합하여 최종 검증 루프(verify_all_assets)를 거친 배포용 통합 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T19-14/developer.md
 - [2026-07-29] 최근 수정된 verify_all_assets() 함수에 deployment_bundle을 인자로 추가하여 KeyError 및 TypeError 문제를 해결하고, 검증 루프을 거친 배포용 통합 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T19-29/developer.md
 - [2026-07-29] build_unified_landing_package.py의 6섹션 매핑과 verification 루프가 deployment_bundle 내 모든 자산에 대해 정상 작동하는지 기술적으로 검증하십시오. → 산출물 sessions/2026-07-29T21-59/developer.md
+- [2026-07-29] 최근의 `verify_all_assets` 인자 누락 문제를 해결하고, 모든 자산에 대해 정상 작동하는 배포용 통합 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T22-14/developer.md
