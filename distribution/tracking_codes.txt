@@ -1,0 +1,3 @@
+GA4 Tracking Code: G-1234567890
+
+Each image in the distribution package must have this code embedded at the bottom to ensure a single, non-duplicate tracking point for analytics.
