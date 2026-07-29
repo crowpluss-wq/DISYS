@@ -9386,3 +9386,8 @@ _세션: 2026-07-29T18-14_
 - 모든 채널 공통 GA4 추적 코드를 G-1234567890로 통일
 - 진단비 2,000만원 이상 수치를 활용해 보험 보장 강화 강조
 _세션: 2026-07-29T18-29_
+
+## [2026-07-29] [자율 사이클 — 2026-07-29] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_
+- verify_deployment_assets.py의 verify_all_assets 함수에 deployment_bundle 인수 추가
+- build_unified_landing_package.py에서 package['content']['sections'] 구조 유효성 검증 수정
+_세션: 2026-07-29T18-44_
