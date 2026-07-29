@@ -333,3 +333,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-29] 최근 결정사항(제거/강화 대비 구조, 트래킹 코드 G-1234567890)과 인스타그램의 2분할 레이아웃을 기반으로 카드뉴스 및 배너 등 시각 자산 제작용 가이드와 디자인 사양서 작성 → 산출물 sessions/2026-07-28T23-59/designer.md
 - [2026-07-29] reports/final_visual_asset_production_guide.md를 참조하여 제거(#808080) vs 강화(#FF4B5C) 대비 구조가 시각적으로 극대화된 카드뉴스 이미지 세트와 채널별 대응형 배너들을 제작하십시오. → 산출물 sessions/2026-07-29T00-14/designer.md
 - [2026-07-29] reports/final_visual_asset_production_guide.md을 참조하여 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 시각적으로 극대화한 카드뉴스 이미지 세트와 채널별 대응형 배너들을 제작하십시오 → 산출물 sessions/2026-07-29T00-29/designer.md
+- [2026-07-29] reports/insurance_comparison_report.md를 참고하여 제거(#808080) vs 강화(#FF4B5C) 대비 구조가 극대화된 카드뉴스 이미지 세트와 채널별 대응형 배너들을 제작하십시오. → 산출물 sessions/2026-07-29T00-59/designer.md
