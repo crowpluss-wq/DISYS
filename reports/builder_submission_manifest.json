@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "status": "verified",
+  "tracking_code": "G-1234567890",
+  "assets": {
+    "instagram": {
+      "morning": ["cardnews1", "cardnews2"],
+      "evening": ["banner1", "banner2", "banner3"]
+    },
+    "youtube": [
+      "intro_hook",
+      "main_comparison_visual",
+      "outro_cta"
+    ]
+  }
+}
