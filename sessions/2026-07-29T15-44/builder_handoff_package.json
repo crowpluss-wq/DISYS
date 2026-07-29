@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "build_info": {
+    "last_verified": "2026-07-29",
+    "tracking_code": "G-1234567890"
+  },
+  "assets": [
+    {
+      "id": "comparison_report",
+      "type": "text/markdown",
+      "source": "reports/insurance_comparison_matrix_verification.md",
+      "description": "제거/강화 대비 구조가 시각적으로 극대화된 비교 보고서"
+    },
+    {
+      "id": "instagram_bundle",
+      "type": "marketing-package",
+      "source": "sessions/2026-07-29T13-44/instagram.md",
+      "channels": ["instagram"]
+    },
+    {
+      "id": "youtube_bundle",
+      "type": "marketing-package",
+      "source": "sessions/2026-07-29T12-59/youtube.md",
+      "channels": ["youtube"]
+    }
+  ],
+  "deployment_notes": "모든 배포 파일에서 중복 GA 추적 제거 완료. 시각 대비 구조 한 곳에만 포함됨."
+}
