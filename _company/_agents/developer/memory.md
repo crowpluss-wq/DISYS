@@ -303,3 +303,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-29] build_unified_landing_package.py의 6섹션 매핑과 verification 루프가 deployment_bundle 내 모든 자산에 대해 정상 작동하는지 기술적으로 검증하십시오. → 산출물 sessions/2026-07-29T21-59/developer.md
 - [2026-07-29] 최근의 `verify_all_assets` 인자 누락 문제를 해결하고, 모든 자산에 대해 정상 작동하는 배포용 통합 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T22-14/developer.md
 - [2026-07-29] 최종 확정된 디자인 가이드(제거/강화 대비 구조 및 GA 추적 코드 포함)와 valid된 deployment_bundle을 결합하여 실제 배포용 통합 패키지를 생성하십시오. → 산출물 sessions/2026-07-29T22-44/developer.md
+- [2026-07-29] build_unified_landing_package.py의 validation 루프와 verify_all_assets을 활용하여 모든 홍보 자산(유튜브, 인스타그램)에 GA 코드 G-1234567890가 삽입된 통합 배포 패키지를 생성하십시오. → 산출물 sessions/2026-07-29T22-59/developer.md
