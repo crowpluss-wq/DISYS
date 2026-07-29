@@ -800,3 +800,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-07-29] researcher의 데이터를 바탕으로 블로그용 보험 가이드(대략 A4 한 장 분량)를 작성하고, 인스타그램 게시를 위한 오전/오후 두 트랙의 후크 세트를 포함한 통합 배포 패키지를 구성하십시오. → 산출물 sessions/2026-07-29T03-44/writer.md
 - [2026-07-29] 수합된 비교 데이터를 바탕으로 블로그 게시용 보고서를 작성하고, 한화보험 등 주요 사례를 포함한 최적의 보험 설계안과 장단점을 분석한 결론을 도출하십시오. → 산출물 sessions/2026-07-29T04-59/writer.md
 - [2026-07-29] reports/insurance_comparison_matrix_final.md와 comparison report을 참조하여 블로그용 요약 보고서 작성 (A4 한 장 분량) → 산출물 sessions/2026-07-29T05-44/writer.md
+- [2026-07-29] reports/insurance_comparison_matrix_final.md의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 유지하며 전체 보험사의 장단점과 신규보험을 포함한 통합 보고서 작성 → 산출물 sessions/2026-07-29T07-29/writer.md
