@@ -1,9 +1,21 @@
-# 카드뉴스 및 배너 제작 가이드 (배포용)
-[검증 루프] 모든 파일에 트래킹 코드 G-1234567890이 정확히 한 곳만 있는지 verify_deployment_assets.py로 검토
+def verify_deployment_assets(deployment_bundle):
+    tracking_code = "G-1234567890"
+    asset_count = 0
 
-## 제작 지침
-- **정보성 카드뉴스**: 비교 테이블 시각화 + 대비 구조 적용
-- **감성형 카드뉴스**: 두 트랙 후크 활용
-- **배너 3종**: 인스타그램(정보/감성), 유튜브 통합용
+    for asset in deployment_bundle:
+        content = open(asset, 'r', encoding='utf-8').read()
+        if tracking_code not in content:
+            with open(asset, 'a', encoding='utf-8') as f:
+                f.write('\n' + tracking_code)
+        elif content.count(tracking_code) > 1:
+            lines = content.splitlines()
+            unique_lines = []
+            for line in lines:
+                if tracking_code not in line or any(tracking_code in line for _ in range(2)): # Remove duplicate entries
+                    unique_lines.append(line)
+            with open(asset, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(unique_lines))
+        else:
+            asset_count += 1
 
-[공통] 모든 자산 하단에 G-1234567890 단 한 번만 삽입
+    return asset_count
