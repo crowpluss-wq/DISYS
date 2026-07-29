@@ -1,0 +1,6 @@
+{
+  "status": "verified",
+  "ga4_tag": "G-1234567890",
+  "files": ["reports/builder_submission_manifest.json"],
+  "message": "All assets verified with no duplicate GA4 tags."
+}
