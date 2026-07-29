@@ -348,3 +348,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-29] reports/insurance_comparison_matrix_final.md의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 시각화한 비즈니스 비교 보고서를 제작하세요. → 산출물 sessions/2026-07-29T12-44/designer.md
 - [2026-07-29] 완성된 대비 구조를 시각화한 카드뉴스 2종 및 채널별 대응형 배너 세트 제작 (source: reports/insurance_comparison_matrix_raw.md) → 산출물 sessions/2026-07-29T13-44/designer.md
 - [2026-07-29] reports/insurance_comparison_matrix_verification.md의 제거(#808080)/강화(#FF4B5C) 대비 구조를 활용하여 카드뉴스 2종과 인스타그램·유튜브용 배너 세트를 제작하십시오. → 산출물 sessions/2026-07-29T14-29/designer.md
+- [2026-07-29] 이미 확정된 제거/강화 대비 구조를 바탕으로 인스타그램용 5종 후크와 유튜브 포함 채널별 대응형 배너 세트를 완성하십시오. → 산출물 sessions/2026-07-29T14-44/designer.md
