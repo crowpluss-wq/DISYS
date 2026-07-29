@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 7. 30. 오전 5:09:39_
+_업데이트: 2026. 7. 30. 오전 5:19:34_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -11,9 +11,9 @@ _업데이트: 2026. 7. 30. 오전 5:09:39_
 - [2026-07-29] writer가 구성한 두 트랙 후크를 검증하고, 모든 이미지 하단에 중복 없는 단일 GA4 추적 코드(G-1234567890) 삽입 상태 확인 및 배포 준비 완료 보고 → 산출물 sessions/2026-07-29T18-29/instagram.md
 - [2026-07-29] 확정된 세 가지 모델을 소셜 배포용 키트로 재구성하고, 오전/오후 두 트랙 후크 매핑 및 GA4 코드 삽입 검증 → 산출물 sessions/2026-07-29T19-59/instagram.md
 ### 🎨 Designer
-- [2026-07-29] reports/insurance_comparison_matrix_verification.md의 제거(#808080)/강화(#FF4B5C) 대비 구조를 활용하여 카드뉴스 2종과 인스타그램·유튜브용 배너 세트를 제작하십시오. → 산출물 sessions/2026-07-29T14-29/designer.md
 - [2026-07-29] 이미 확정된 제거/강화 대비 구조를 바탕으로 인스타그램용 5종 후크와 유튜브 포함 채널별 대응형 배너 세트를 완성하십시오. → 산출물 sessions/2026-07-29T14-44/designer.md
 - [2026-07-29] 제거/강화 대비 구조를 시각화한 카드뉴스 2종과 채널별 대응형 배너 세트를 제작하고 모든 이미지 하단에 G-1234567890 트래킹 코드를 포함하십시오. → 산출물 sessions/2026-07-29T15-29/designer.md
+- [2026-07-29] reports/insurance_comparison_matrix_verification.md의 제거(#808080)/강화(#FF4B5C) 대비 구조를 시각화한 카드뉴스 2종과 인스타그램·유튜브용 배너 세트를 제작하고 모든 이미지 하단에 G-1234567890 트래킹 코드를 포함하십시오. → 산출물 sessions/2026-07-29T20-14/designer.md
 ### 💻 코다리
 - [2026-07-29] build_unified_landing_package.py에 'sections' 키를 추가하고 verify_all_assets()가 deployment_bundle을 인자로 받도록 수정하여 최근 발생한 KeyError와 TypeError를 해결하세요. → 산출물 sessions/2026-07-29T18-59/developer.md
 - [2026-07-29] Researcher가 재구조화한 6개 섹션 기반의 landing_page_content_bundle.json과 최근 수정된 build_unified_landing_package.py를 결합하여 최종 검증 루프(verify_all_assets)를 거친 배포용 통합 패키지를 완성하십시오. → 산출물 sessions/2026-07-29T19-14/developer.md
