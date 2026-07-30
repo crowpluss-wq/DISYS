@@ -5082,6 +5082,91 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-29T12-14/_report.md\n- Designer: reports/insurance_comparison_matrix_final.md의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 \n- 코다리: 모든 배포 파일에 GA4 추적 코드 G-1234567890이 중복 없이 단 한 곳에만 삽입되었는지 검증 루프를 통한 전수 검증을 수행하고, 최종\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: reports/insurance_comparison_matrix_final.md의 제거(#808080) vs 강화(#FF4B5C) 대비 구조를 시각적 핵심으로 활용하여 카드뉴스 2종 및 채널별 대응형 배너 세트 제작 가이드 완성\n>",
       "completedAt": "2026-07-29T12:24:51.385Z"
+    },
+    {
+      "id": "20260730042201-8ejt",
+      "title": "`reports/insurance_comparison_matrix_final.md` 및 수집된 모든 보험사 데이터를 검토하십시오.",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-30T04:22:01.260Z",
+      "status": "done",
+      "sessionDir": "2026-07-30T04-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-30T04-14/_report.md\n- 코다리: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에\n- Researcher: 보험 비교 보고서 및 인스타그램 대비 구조의 최신 데이터 마이닝을 통한 최종 대조표 완성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에 따른 통합 배포 패키지 재빌드\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡",
+      "completedAt": "2026-07-30T04:24:54.188Z"
+    },
+    {
+      "id": "20260730042201-mel0",
+      "title": "불명확하거나 사실 확인이 필요한 정보는 인터넷과 공식 홈페이지를 활용해 바로잡으십시오.",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-30T04:22:01.271Z",
+      "status": "done",
+      "sessionDir": "2026-07-30T04-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-30T04-14/_report.md\n- 코다리: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에\n- Researcher: 보험 비교 보고서 및 인스타그램 대비 구조의 최신 데이터 마이닝을 통한 최종 대조표 완성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에 따른 통합 배포 패키지 재빌드\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡",
+      "completedAt": "2026-07-30T04:24:54.196Z"
+    },
+    {
+      "id": "20260730042201-o1k4",
+      "title": "제거(#808080)와 강화(#FF4B5C) 대비 구조(한화 보험료 제거 및 AI 심사 도입 등 강조)에 맞게 매트릭스 재구성하십시오.",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-30T04:22:01.279Z",
+      "status": "done",
+      "sessionDir": "2026-07-30T04-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-30T04-14/_report.md\n- 코다리: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에\n- Researcher: 보험 비교 보고서 및 인스타그램 대비 구조의 최신 데이터 마이닝을 통한 최종 대조표 완성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에 따른 통합 배포 패키지 재빌드\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡",
+      "completedAt": "2026-07-30T04:24:54.201Z"
+    },
+    {
+      "id": "20260730042201-b0bi",
+      "title": "최종 확정된 핵심 비교 수치 세트를 확보하십시오.",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-30T04:22:01.285Z",
+      "status": "done",
+      "sessionDir": "2026-07-30T04-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-30T04-14/_report.md\n- 코다리: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에\n- Researcher: 보험 비교 보고서 및 인스타그램 대비 구조의 최신 데이터 마이닝을 통한 최종 대조표 완성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에 따른 통합 배포 패키지 재빌드\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡",
+      "completedAt": "2026-07-30T04:24:54.206Z"
+    },
+    {
+      "id": "20260730042201-kiet",
+      "title": "Researcher가 정제한 데이터를 기반으로 '제거 vs 강화' 대비 구조의 시각적 가이드(카드뉴스용 대비구조 포함) 작성.",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-30T04:22:01.300Z",
+      "status": "done",
+      "sessionDir": "2026-07-30T04-14",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-30T04-14/_report.md\n- 코다리: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에\n- Researcher: 보험 비교 보고서 및 인스타그램 대비 구조의 최신 데이터 마이닝을 통한 최종 대조표 완성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에 따른 통합 배포 패키지 재빌드\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡",
+      "completedAt": "2026-07-30T04:24:54.216Z"
     }
   ]
 }
