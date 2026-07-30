@@ -9,4 +9,4 @@
    - Draft one-line marketing summaries for blog/social use based on verified data.
 
 ## Coordination Note
-Avoid overlapping work — Researcher handles raw data integrity; Hyeonbin manages content structuring and messaging.
+Researcher will complete the matrix first, then Hyeonbin will perform the final business review and summarize it for public distribution.
