@@ -314,3 +314,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-30] 검증을 통과한 모든 자산(문구, 디자인 가이드, GA 코드)이 통합된 배포 패키지를 운용 환경에 즉시 반영하고 배포를 완료하세요. → 산출물 sessions/2026-07-30T03-59/developer.md
 - [2026-07-30] build_unified_landing_package.py에서 KeyError: 'sections' 원인 파악 후 패키지 구조 수정하고 가이드에 따른 통합 배포 패키지 재빌드 → 산출물 sessions/2026-07-30T04-14/developer.md
 - [2026-07-30] build_unified_landing_package.py에서 KeyError: 'sections'가 발생하는 원인을 파악하고, 가이드에 맞춘 데이터 구조로 수정한 뒤 배포용 통합 패키지를 재빌드하십시오. → 산출물 sessions/2026-07-30T04-29/developer.md
+- [2026-07-30] 디자이너가 정의한 시각적 요소와 writer의 문구를 포함하고, 모든 그래픽 하단에 GA 추적 코드 G-1234567890을 적용하며, 검증된 배포 패키지를 운영 환경에 즉시 반영하여 최종 배포를 완료하세요. → 산출물 sessions/2026-07-30T05-29/developer.md
