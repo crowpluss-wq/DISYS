@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "structure": "remove/strengthen",
+    "colors": {
+      "remove": "#808080",
+      "strength": "#FF4B5C"
+    },
+    "tracking_code": "G-1234567890"
+  },
+  "matrix_data": [
+    {
+      "comparison_point": "Complexity of Structure",
+      "removed": {
+        "label": "Redundant Clauses and Minor Endowments",
+        "reason": "High maintenance cost, diluted coverage for a large number of minor claims."
+      },
+      "strengthened": {
+        "label": "Core Coverage Consolidation",
+        "benefit": "Streamlined structure with resources reapplied to core clauses (diagnosis/surgery)."
+      }
+    },
+    {
+      "comparison_point": "Coverage for Diagnosis and Surgery Expenses",
+      "removed": {
+        "label": "Fragmented low-limit payouts",
+        "issue": "Poor perception of protection; lower LTV."
+      },
+      "strengthened": {
+        "label": "Core Protection Strengthening",
+        "benefit": "Improved perceived value with consolidated limits for essential medical expenses."
+      }
+    ],
+    "marketing_links": [
+      {
+        "channel": "blog",
+        "hook": "Remove the noise, strengthen what matters.",
+        "tracking": "G-1234567890"
+      },
+      {
+        "channel": "instagram",
+        "morning_hook": "Finding sincerity hidden in complexity.",
+        "afternoon_hook": "Eliminate the excess—Strengthen what you need!",
+        "tracking": "G-1234567890"
+      }
+    ]
+  }
