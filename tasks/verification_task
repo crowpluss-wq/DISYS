@@ -1,10 +1,16 @@
-# Validator Task: Verification and Finalization of the Core Dataset
+# 보험 비교 매트릭스 사실 검증 및 핵심 데이터셋 확정 (2026-07-31)
 
-Goal: Validate the numbers in the comparison matrix against source documents, confirm factual accuracy, and approve the final report structure for deployment.
+## 개요
+이미 설계된 한화 대비 구조를 바탕으로, 각 주요 보험사별 보장 내용과 가격을 실제 수집 데이터로 채우고 보고서용 핵심 비교 매트릭스를 완성한다.
 
-Tasks:
-- Review reports/insurance_comparison_matrix_final.md as produced by Researcher.
-- Cross-verify key metrics (coverage limits, premium levels, rider eligibility) with known insurer terms.
-- Confirm that every "Removed" (#808080) vs "Enhanced" (#FF4B5C) contrast aligns with the LTV-driven improvement logic from recent decisions.
-- Approve the summary section for public release — must be clear and factually bulletproof.
-- Mark the dataset as "FINAL_VERIFIED" upon completion.
+## 할당 및 역할 분담
+Researcher: 모든 보험사의 장점/단점을 포함한 최종 대조표의 빈칸들을 최신 데이터로 업데이트하고 fact-check을 수행함 (보고서 기반 마련)
+Koda-ri: 검증된 데이터를 활용해 기술적 사양과 비교 수치를 재검증하며, 보고서에 사용될 핵심 데이터셋이 정확함을 확인함
+
+## 작업 내용
+1. reports/insurance_comparison_matrix_final.md 내의 아직 채워지지 않은 항목들을 실제 보험사별 특약 및 보장 범위로 대체
+2. 각 상품의 장단점을 수치화하여 제거(808080)와 강화(FF4B5C) 대비 구조 반영 확인
+3. 비교 매트릭스를 기반으로 보고서 핵심 데이터셋 확정
+
+## 예정 산출물
+- 검증된 insurance_comparison_matrix_final.md (핵심 수치 28pt 이상 강조 포함)
