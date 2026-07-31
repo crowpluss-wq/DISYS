@@ -5371,6 +5371,36 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-30T17-08/_report.md\n- Researcher: 최근 결정 사항과 제거/강화 대비 구조를 바탕으로 검증된 데이터 세트를 확정하십시오.\n- 현빈: 가입자 체감 개선 및 LTV 향상에 중점을 둔 상세 보고서와 마케팅용 한 줄 요약을 작성하십시오.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근 결정 사항과 제거/강화 대비 구조를 바탕으로 검증된 데이터 세트를 확정하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: CEO 지시사항(검증된 데이터셋 확정",
       "completedAt": "2026-07-30T17:23:36.837Z"
+    },
+    {
+      "id": "20260731033722-ecdn",
+      "title": "`cardnews_info` (정보형 대비표)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-31T03:37:22.017Z",
+      "status": "pending",
+      "sessionDir": "2026-07-31T03-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260731033722-tjvj",
+      "title": "`cardnews_emotion` (감성형 대비표)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-07-31T03:37:22.023Z",
+      "status": "pending",
+      "sessionDir": "2026-07-31T03-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
