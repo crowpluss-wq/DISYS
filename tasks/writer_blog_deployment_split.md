@@ -1,16 +1,16 @@
-# Writer Blog Deployment Task Split
+# [비교 분석 보고서] 불필요한 거품은 걷어내고, 당신의 내일을 강화하는 맞춤형 보험 설계
 
-## Goal
-Produce a deployment-ready blog post from the finalized comparison report, split into three clear sections (Hook, Body, CTA) with a one-sentence marketing summary for engagement.
+## Hook
+불필요한 특약 때문에 매달리는 비용 — 정말 필요한 보장을 하나라도 놓치고 있지는 않으신가요? (제거 #808080 / 강화 #FF4B5C 대비 구조 적용)
 
-## Assignment Breakdown
-### [Stage 1] Content Structuring & Hook Generation
-- **Assignee:** Writer
-- **Action**: Convert the "remove/enhance" matrix and key metrics into a structured blog draft: a compelling hook (incorporating the approved one-line summary), an informative body highlighting the value proposition, and a clear CTA.
+## Body
+[한 문장 마케팅 요약] 불필요한 특약을 제거해 보험료는 최적화하고, 실질적인 보장은 강화하여 가입자의 보호 수준을 한 단계 높였습니다. (G-1234567890)
 
-### [Stage 2] Visual Layout & Card News Specs
-- **Assignee:** Designer
-- **Action**: Create a one-page layout with high readability (#808080 vs #FF4B5C contrast, min 28pt for key figures) and two card news variants based on the approved visual guidelines.
+기존 상품의 복잡한 구조를 분석하여 두 가지로 나누었습니다:
+*   **제거 (#808080)**: 자주 쓰지 않으면서 보험료만 올려주는 불필요한 특약들을 솎내냈습니다.
+*   **강화 (#FF4B5C)**: 정작 필요한 보장 범위는 더 넓고 단단하게 다시 설계했습니다.
 
-## Rationale
-One coherent goal split into execution lanes: Writer delivers the narrative substance (hook/body/cta), Designer delivers the visual form—zero duplicate work across agents.
+데이터를 통해 검증된 사실만을 바탕으로, 당신이 체감할 수 있는 실질적 비용 절감과 보호 수준 강화의 대비를 한눈에 확인하십시오. (핵심 수치 가독성 지침 준수)
+
+## CTA
+당신의 미래를 위한 최선의 보험 설계 — 지금 바로 무료 상담을 신청하고 맞춤형 보장 구조를 직접 확인하세요. [상담 예약하기]
