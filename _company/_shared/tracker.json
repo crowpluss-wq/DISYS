@@ -5558,6 +5558,40 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-07-31T14-17/_report.md\n- Researcher: 전국 보험사들의 상품 구성과 보장 범위를 조사하여 제거(#808080)와 강화(#FF4B5c) 대비의 한 페이지 분량 비교 보고서로 요약하세요.\n- 현빈: 제조된 데이터를 바탕으로 LTV 기반 사업성 분석을 포함시킨 최종 보험 비교 보고서를 완성시키세요.\n- Writer: 비교 보고서의 핵심 내용을 활용하여 두 트랙 마케팅 요약과 한 페이지 분량의 블로그용 콘텐츠를 작성하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 전국 보험사들의 상품 구성과 보장 범위를 조사하여 제거(#808080)와 강화(#FF4B5c) 대비의 한 페이지 분량 비교 보고서로 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> \ud83d",
       "completedAt": "2026-07-31T15:03:15.213Z"
+    },
+    {
+      "id": "20260731191223-044o",
+      "title": "한화보험 가입 예시 데이터 추출 완료",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-31T19:12:23.575Z",
+      "status": "done",
+      "sessionDir": "2026-07-31T19-04",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-31T19-04/_report.md\n- Researcher: 최근 의사결정 로그와 이미 완료된 Writer의 보고서를 대조하여 중복 항목을 걸러내고, 다음 작업 순위 3개 중 가장 시급한 하나만 선택하십시\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작 합니다.\n\n최근 의사결정 로그와 이미 완성된 보고서를 대조한 결과, 중복되는 정보는 제거하고 핵심 비교 지표(보장 범위/특약) 위주로 남겼습니다. 현재 가장 시급한 단일 작업을 아래와 같이 선정했습니다.\n\n### 📌 결정 사항\n1. **선택 작업**: `researcher_matrix_cleanup` (reports/",
+      "completedAt": "2026-07-31T19:12:23.603Z"
+    },
+    {
+      "id": "20260731191223-7zwo",
+      "title": "주요 보험사별 약관 대비 매트릭스 업데이트 완료",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-07-31T19:12:23.585Z",
+      "status": "done",
+      "sessionDir": "2026-07-31T19-04",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-07-31T19-04/_report.md\n- Researcher: 최근 의사결정 로그와 이미 완료된 Writer의 보고서를 대조하여 중복 항목을 걸러내고, 다음 작업 순위 3개 중 가장 시급한 하나만 선택하십시\n\nCEO 종합 요점: 🔍 Researcher: 작업 시작 합니다.\n\n최근 의사결정 로그와 이미 완성된 보고서를 대조한 결과, 중복되는 정보는 제거하고 핵심 비교 지표(보장 범위/특약) 위주로 남겼습니다. 현재 가장 시급한 단일 작업을 아래와 같이 선정했습니다.\n\n### 📌 결정 사항\n1. **선택 작업**: `researcher_matrix_cleanup` (reports/",
+      "completedAt": "2026-07-31T19:12:23.611Z"
     }
   ]
 }
