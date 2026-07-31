@@ -1,0 +1,10 @@
+# Validator Task: Verification and Finalization of the Core Dataset
+
+Goal: Validate the numbers in the comparison matrix against source documents, confirm factual accuracy, and approve the final report structure for deployment.
+
+Tasks:
+- Review reports/insurance_comparison_matrix_final.md as produced by Researcher.
+- Cross-verify key metrics (coverage limits, premium levels, rider eligibility) with known insurer terms.
+- Confirm that every "Removed" (#808080) vs "Enhanced" (#FF4B5C) contrast aligns with the LTV-driven improvement logic from recent decisions.
+- Approve the summary section for public release — must be clear and factually bulletproof.
+- Mark the dataset as "FINAL_VERIFIED" upon completion.
