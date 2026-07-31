@@ -1,0 +1,8 @@
+# Marketer Task: Marketing Summary & Analytics Readiness
+
+Goal: Extract a punchy one-sentence marketing hook from the validated matrix, refine it for blog use, and verify analytics tracking integration before deployment.
+
+Tasks:
+- Synthesize the "removed vs enhanced" contrast into a single, impactful headline/summary sentence for public consumption.
+- Verify GA4 tracking code G-1234567890 is correctly integrated across all distribution paths.
+- Audit the draft summary against readability and marketing guidelines (minimum 28pt bolding on key figures).

@@ -1,0 +1,9 @@
+# Validator Task: Fact-Check and Structure Alignment
+
+Goal: Validate the comparison matrix's numbers against source documents, confirm LTV improvement logic across all contrast points (#808080 vs #FF4B5C), and approve the report for final deployment.
+
+Tasks:
+- Review reports/insurance_comparison_matrix_final.md as produced by Researcher.
+- Cross-verify coverage limits, premium levels, rider eligibility with known insurer terms.
+- Ensure each "Removed" (#808080) vs "Enhanced" (#FF4B5C) contrast aligns with the LTV-driven logic.
+- Approve the summary section for public release — must be clear and factually bulletproof.
