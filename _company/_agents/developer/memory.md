@@ -334,3 +334,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-31] 검증된 자산을 배포 패키지로 최종 통합하고 모든 경로에 GA4 추적 코드 G-1234567890이 포함되었는지 기술 사양에 맞게 재검증하십시오. → 산출물 sessions/2026-07-31T08-51/developer.md
 - [2026-07-31] verify_deployment_assets.py를 실행하여 모든 채널에 GA4 추적 코드(G-1234567890)가 정상적으로 포함되었는지 자동 검증하고 보고할 것. → 산출물 sessions/2026-07-31T09-25/developer.md
 - [2026-07-31] 검증 성공 시 build_unified_landing_package를 호출하여 모든 채널을 하나로 묶는 통합 배포 패키지를 구성할 것. → 산출물 sessions/2026-07-31T09-25/developer.md
+- [2026-07-31] 이미 검증된 자산들을 활용하여 모든 채널을 하나로 묶는 최종 unified deployment package를 구축하십시오. → 산출물 sessions/2026-07-31T09-55/developer.md
