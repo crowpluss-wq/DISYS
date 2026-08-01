@@ -382,3 +382,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-07-31] reports/cardnews_layout_source.md와 verification 문서를 바탕으로 제거(#808080)와 강화(#FF4B5C) 대비가 적용된 실제 카드뉴스 이미지 파일들을 생성하십시오. → 산출물 sessions/2026-07-31T23-32/designer.md
 - [2026-08-01] reports/cardnews_layout_source.md와 verification 문서를 바탕으로 제거(#808080)와 강화(#FF4B5C) 대비가 적용된 실제 카드뉴스 이미지 파일들을 생성하십시오. → 산출물 sessions/2026-07-31T23-47/designer.md
 - [2026-08-01] reports/visualization_spec.md의 세부 지침(제거 #808080, 강화 #FF4B5C 대비 구조 및 28pt 이상 확대)을 엄격히 준수하여 실제 카드뉴스 이미지 파일들을 생성하고 검증 패키지에 포함시키십시오. → 산출물 sessions/2026-08-01T00-17/designer.md
+- [2026-08-01] visualization_spec.md의 세부 지침(제거 #808080, 강화 #FF4B5C 대비 구조 및 주요 수치 28pt 이상 확대)을 엄격히 준수하여 실제 카드뉴스 이미지 파일들을 생성하십시오. → 산출물 sessions/2026-08-01T03-26/designer.md
