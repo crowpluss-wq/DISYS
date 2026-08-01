@@ -1,0 +1,36 @@
+## 카드뉴스 시각화 구현 명세 (제거 vs 강화 대비 구조)
+
+### 디자인 원칙
+- **2분할 레이아웃**: 세로형 2분할(Vertical Split Layout). 모바일 환경에서 두 영역의 대조를 극대화.
+- **시각적 대비**: 제거 항목은 `#808080` 회색 처리 및 삭제 아이콘 사용, 강화 포인트는 강조 컬러(`#FF4B5c`) 적용.
+- **강조 타이포그래피**: 핵심 수치 및 문구 크기 28pt 이상 확대.
+
+### 이미지 생성 세부 사항
+- **레이아웃 유형**
+  1. `remove_vs_strengthen_cardnews_01.png`: 기본 제거/강화 대비 카드뉴스 (G-1234567890 추적 코드 포함)
+  2. `premium_benefit_highlight.png`: 핵심 보장 강화 포인트 강조 버전
+  3. `cost_cutting_summary.png`: 불필요한 항목 제거 및 비용 절감 수치 강조 버전
+
+- **색상 명세**
+  *   강조 컬러: `#FF4B5c`
+  *   제거/회색 처리: `#808080`
+
+### 이미지 생성 스크립트 (내부 참조용)**
+```python
+import torch
+from diffusers import StableDiffusionPipeline
+# ... 모델 로드 등 생략 ...
+
+def generate_cardnews_images():
+    layouts = [
+        "vertical 2-split layout, left side gray (#808080) with delete icon for 'remove', right side red (#FF4B5c) and large font size for 'strengthen'",
+        "close-up on the strengthened insurance benefits in bold text over a contrast split background",
+        "infographic showing cost reduction numbers above 28pt font against grayed out unnecessary clauses"
+    ]
+
+    filenames = ["remove_vs_strengthen_cardnews_01.png", "premium_benefit_highlight.png", "cost_cutting_summary.png"]
+
+    for layout, filename in zip(layouts, filenames):
+        image = pipe(prompt=layout).images[0]
+        image.save(f"reports/{filename}")
+```
