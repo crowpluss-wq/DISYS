@@ -1,0 +1,3 @@
+# 🎯 fill_matrix_with_verified_data
+
+불명확한 특약과 보장 범위를 조사하여 `reports/insurance_comparison_matrix_final.md`의 빈칸을 채우고, 제거(#808080) vs 강화(#FF4B5c) 시각화를 위한 정밀 데이터 세트를 구축한다.
