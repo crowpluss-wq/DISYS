@@ -5602,11 +5602,13 @@
         "researcher"
       ],
       "createdAt": "2026-08-01T20:39:09.946Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-08-01T20-30",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.318Z"
     },
     {
       "id": "20260801203909-btv4",
@@ -5617,11 +5619,13 @@
         "researcher"
       ],
       "createdAt": "2026-08-01T20:39:09.972Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-08-01T20-30",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.343Z"
     },
     {
       "id": "20260801203909-yxur",
@@ -5632,11 +5636,13 @@
         "researcher"
       ],
       "createdAt": "2026-08-01T20:39:09.987Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-08-01T20-30",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.365Z"
     },
     {
       "id": "20260801203910-uew7",
@@ -5647,11 +5653,64 @@
         "researcher"
       ],
       "createdAt": "2026-08-01T20:39:10.002Z",
-      "status": "pending",
+      "status": "done",
       "sessionDir": "2026-08-01T20-30",
       "nudges": 0,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.379Z"
+    },
+    {
+      "id": "20260801204501-2m8b",
+      "title": "Examine `reports/insurance_comparison_matrix_final.md` and verify all coverage items are complete before drafting",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-08-01T20:45:01.656Z",
+      "status": "done",
+      "sessionDir": "2026-08-01T20-30",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.392Z"
+    },
+    {
+      "id": "20260801204503-hv22",
+      "title": "Draft the summary report with two tracks: information (logical comparison) and emotion (user empathy)",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-08-01T20:45:03.488Z",
+      "status": "done",
+      "sessionDir": "2026-08-01T20-30",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.404Z"
+    },
+    {
+      "id": "20260801204503-c4d5",
+      "title": "Apply visual contrast coding (#808080 for removal, #FF4B5c for strengthening) throughout the draft",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-08-01T20:45:03.503Z",
+      "status": "done",
+      "sessionDir": "2026-08-01T20-30",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-01T20-30/_report.md\n- Researcher: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n- Writer: 완성된 보험 비교 매트릭스를 바탕으로 블로그용 한 페이지 분량의 요약 보고서를 작성하되, 정보형과 감성형 두 트랙을 유지하고 제거(#808080\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 최근의 보험 비교 매트릭스와 각사별 특약 데이터를 재검토하여 누락된 보장 범위를 온라인 사실 확인으로 보강하고 완전한 대조표를 완성하십시오.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-08-01T20:52:27.416Z"
     }
   ]
 }
