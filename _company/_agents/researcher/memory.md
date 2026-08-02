@@ -362,3 +362,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-08-02] 모든 보험사의 설계안과 최신 상품 장단점 조사, 한화손해보험 대비 제거(#808080)/강화(#FF4B5c) 포인트 명확하게 정리 → 산출물 sessions/2026-08-02T05-53/researcher.md
 - [2026-08-02] 대한민국 모든 보험사의 보험 설계와 신규 보험 정보를 수집하고 각각의 장점과 단점을 요약하세요. → 산출물 sessions/2026-08-02T08-38/researcher.md
 - [2026-08-02] reports/insurance_comparison_matrix_final.md의 빈칸을 실제 수집된 보험사별 특약 및 보장 범위로 채워 정확한 대조표를 완성하고 제거(#808080)/강화(#FF4B5c) 대비 구조를 확정하십시오. → 산출물 sessions/2026-08-02T09-08/researcher.md
+- [2026-08-02] reports/insurance_comparison_matrix_final.md 내 빈칸을 각 보험사별 실제 수집한 보장 범위와 특약 정보로 하나씩 업데이트하여 비교표를 완성하시오. → 산출물 sessions/2026-08-02T09-58/researcher.md
