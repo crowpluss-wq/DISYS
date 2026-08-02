@@ -390,3 +390,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-08-01] reports/insurance_comparison_matrix_final.md의 제거(#808080)/강화(#FF4B5c) 대비 시각 구조와 두 트랙 마케팅 요약을 반영하여 블로그용 카드뉴스 이미지 세트를 제작하세요. → 산출물 sessions/2026-08-01T19-13/designer.md
 - [2026-08-01] 최근 승인된 제거(#808080)/강화(#FF4B5c) 대비 시각 구조를 적용하여 블로그용 카드뉴스 세트를 제작하십시오. (참조: reports/insurance_comparison_matrix_final.md) → 산출물 sessions/2026-08-01T19-43/designer.md
 - [2026-08-02] researcher가 정리한 비교 매트릭스 데이터를 기반으로 LTV 모델 반영하여 가독성 높은 카드뉴스 이미지 세트 제작 (제거/강화 대비 시각 구조 포함) → 산출물 sessions/2026-08-02T05-53/designer.md
+- [2026-08-02] reports/insurance_comparison_matrix_final.md의 제거(#808080)/강화(#FF4B5c) 대비 시각 구조와 LTV 모델을 포함한 카드뉴스 이미지 세트를 최종 검증하고 시각 가이드를 확정하세요. → 산출물 sessions/2026-08-02T06-38/designer.md
