@@ -1,12 +1,12 @@
 {
   "ceo": "gemma-4-12b-coder-fable5-composer2.5-v1",
-  "secretary": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "researcher": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "business": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "writer": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "editor": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "designer": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "developer": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "instagram": "gemma4-12b-qat-uncensored-hauhaucs-balanced",
-  "youtube": "gemma4-12b-qat-uncensored-hauhaucs-balanced"
+  "secretary": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "researcher": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "business": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "writer": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "editor": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "designer": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "developer": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "instagram": "gemma-4-12b-coder-fable5-composer2.5-v1",
+  "youtube": "gemma-4-12b-coder-fable5-composer2.5-v1"
 }
