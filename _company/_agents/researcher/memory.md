@@ -365,3 +365,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-08-02] reports/insurance_comparison_matrix_final.md 내 빈칸을 각 보험사별 실제 수집한 보장 범위와 특약 정보로 하나씩 업데이트하여 비교표를 완성하시오. → 산출물 sessions/2026-08-02T09-58/researcher.md
 - [2026-08-02] 불명확한 특약과 보장 범위를 조사하여 reports/insurance_comparison_matrix_final.md의 빈칸을 채우고, 제거(#808080) vs 강화(#FF4B5c) 시각화를 위한 정밀 데이터 세트를 구축하십시오. → 산출물 sessions/2026-08-02T10-13/researcher.md
 - [2026-10-01] 보험사 홈페이지, 뉴스 등에서 보험 비교 매트릭스의 빈칸(특약·보장 범위)을 채울 정밀 데이터 조사 → 산출물 sessions/2026-10-01T02-18/researcher.md
+- [2026-10-27] 최근 거래된 코스피(KOSPI) 지수의 정확한 종가를 신뢰할 수 있는 금융 정보원으로부터 확인 → 산출물 sessions/2026-10-27T08-11/researcher.md
